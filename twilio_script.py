@@ -22,7 +22,7 @@ from utils import request_wapi,get_forecast,create_df,send_message,get_date
 
 
 
-query = 'Bogotá'
+query = 'Madrid'
 api_key = API_KEY_WAPI
 
 input_date= get_date()
@@ -41,4 +41,4 @@ df_rain = create_df(datos)
 message_id = send_message(TWILIO_ACCOUNT_SID,TWILIO_AUTH_TOKEN,input_date,df_rain,query)
 
 
-print('Mensaje Enviado con exito ' + message_id)
+print('Message sent successfully' + message_id)
