@@ -1,36 +1,69 @@
 name: Actualizar GeoJSON
 
 on:
+  # ➡️ 'schedule' define cuándo se ejecutará el flujo de trabajo automáticamente.
+  # La expresión 'cron: '0 20 * * 0'' significa:
+  # 0: minuto 0
+  # 20: hora 20 (8 PM)
+  # *: día del mes (cualquiera)
+  # *: mes (cualquiera)
+  # 0: día de la semana (0 = domingo)
+  # Nota: Tu archivo original tenía '3', que es miércoles. Lo he cambiado a '0' para que sea domingo.
   schedule:
-    - cron: '0 20 * * 3'  # Domingo a las 20hs UTC
+    - cron: '0 20 * * 0' # Domingo a las 20hs UTC
+
+  # 'workflow_dispatch' permite ejecutar el flujo de trabajo manualmente desde la interfaz de GitHub.
   workflow_dispatch:
 
 jobs:
   build:
+    # 'runs-on' especifica el tipo de sistema operativo en el que se ejecutará el trabajo.
     runs-on: ubuntu-latest
+
+    # ➡️ 'env' define las variables de entorno para todo el trabajo.
+    # Estas variables son las que tu script de Python leerá para saber dónde guardar los archivos.
+    env:
+      # OUTPUT_DIR: La ruta donde se guardarán los archivos GeoJSON finales para la página web (la carpeta `docs`).
+      OUTPUT_DIR: docs/
+      # STATE_DIR: La ruta para los archivos de estado como el caché, el progreso y los logs, que deben ser persistentes en el repositorio.
+      STATE_DIR: scr/Backend/data/Output
 
     steps:
       - name: Clonar repositorio
+        # Usa la acción 'checkout' para clonar el repositorio en el runner de GitHub.
         uses: actions/checkout@v3
 
       - name: Configurar Python
+        # Usa la acción 'setup-python' para instalar Python en el runner.
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
       - name: Instalar dependencias
+        # Ejecuta 'pip' para instalar las bibliotecas requeridas del archivo 'requirements.txt'.
         run: pip install -r requirements.txt
 
-      - name: Crear carpetas necesarias
-        run: mkdir -p Backend/data/Output
+      # ➡️ ¡Nuevo! El script de Python ahora se encarga de crear las carpetas
+      # basándose en las variables de entorno. Este paso se ha vuelto redundante
+      # pero es una buena práctica para asegurar que los directorios existan.
+      - name: Crear directorios
+        run: |
+          mkdir -p $OUTPUT_DIR
+          mkdir -p $STATE_DIR
 
       - name: Ejecutar script
+        # ➡️ Ejecuta tu script de Python. Ya no se necesitan argumentos,
+        # ya que las variables de entorno ya están configuradas para el trabajo (job).
         run: python scr/Backend/Calidad_agua.py
 
       - name: Commit y push de cambios
+        # Configura la identidad de Git para el commit automático.
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add Backend/data/Output/*
-          git commit -m "Actualización automática" || echo "No hay cambios para commitear"
+          # Agrega todos los archivos modificados en el repositorio, incluyendo las carpetas de estado y de salida.
+          git add .
+          # Crea un commit con un mensaje. "|| echo ..." maneja el caso donde no hay cambios, evitando que el flujo de trabajo falle.
+          git commit -m "Actualización automática de GeoJSON" || echo "No hay cambios para commitear"
+          # Sube los cambios al repositorio.
           git push
