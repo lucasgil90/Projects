@@ -21,6 +21,13 @@ CONFIG = {
     "zip_range": (1800, 2000)
 }
 
+# 🔹 Crear carpetas necesarias
+for key in ["output_file", "error_file", "cache_file", "progress_file"]:
+    os.makedirs(os.path.dirname(CONFIG[key]), exist_ok=True)
+
+# En caso de log_file_prefix (que no es un archivo aún, pero es ruta base para logs)
+os.makedirs(os.path.dirname(CONFIG["log_file_prefix"]), exist_ok=True)
+
 # --- Inicialización del logger ---
 fecha_hora = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 log_file = f"{CONFIG['log_file_prefix']}{fecha_hora}_test.log"
@@ -217,3 +224,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
