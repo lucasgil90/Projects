@@ -16,7 +16,7 @@ CONFIG = {
     "max_workers": 9,
     "pause_geocode": 0.0,
     "base_url": "https://sinac.sanidad.gob.es/CiudadanoWeb/ciudadano/informacionAbastecimientoActionCA.do?idRed=",
-    "zip_range": (1, 50)
+    "zip_range": (1, 25500)
 }
 
 def setup_environment():
@@ -226,4 +226,5 @@ def main():
     logging.info(f"Total features con error: {len(features_error)}.")
 
 if __name__ == "__main__":
+
     main()
