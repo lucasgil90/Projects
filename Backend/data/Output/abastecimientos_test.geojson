@@ -1,0 +1,2869 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "CASTALLA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6702617,
+                    38.5957233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "CASTALLA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6702617,
+                    38.5957233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "ERMITA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7306184,
+                    40.8137502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "ORXETA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2614226,
+                    38.5634477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "ELDA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7956759,
+                    38.4789671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "SACYR AGUA, S.L.",
+                "Localidad": "BIAR",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7646666,
+                    38.6305367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "IBI",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5730513,
+                    38.623288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "XIXONA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5075903,
+                    38.5392703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "VILLAJOYOSA/VILA JOIOSA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2296202,
+                    38.5100778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "XIXONA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5075903,
+                    38.5392703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "CAMPO DE MIRRA/CAMP DE MIRRA (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4958201,
+                    38.3585397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "ONIL",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6740951,
+                    38.6298061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "AIGÜES",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3634258,
+                    38.500265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "URBANIZACIÓN SIERRA MARINA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8983354,
+                    43.4721788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "SALINAS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.913229,
+                    38.519755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "SAX",
+                "Calidad del agua": "Agua no apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.818913,
+                    38.5350323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "LOMAS (LAS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.571083,
+                    40.0113904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AGUAS CANALIZADAS DE ALCUDIA S.A.",
+                "Localidad": "POBLA (SA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0246803,
+                    39.7697409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "ATALAYA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4140467,
+                    40.5030788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "CUESTA DE LA GRAMA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.492949,
+                    28.0308308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "GOTERAS (LAS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.1218579,
+                    38.4059941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "RASO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3395827,
+                    40.1705115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "VINCO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4764002,
+                    28.0289878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AGUAS CANALIZADAS DE ALCUDIA S.A.",
+                "Localidad": "MAL PAS - BONAIRE",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1398551,
+                    39.8631086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AGUAS CANALIZADAS DE ALCUDIA S.A.",
+                "Localidad": "PORT D'ALCÚDIA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1329813,
+                    39.8419877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "BARX",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.302021,
+                    39.0148124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "MURTA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3610642,
+                    39.1289149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AGUAS CANALIZADAS DE ALCUDIA S.A.",
+                "Localidad": "ALCÚDIA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1212505,
+                    39.8532473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AGUAS CANALIZADAS DE ALCUDIA S.A.",
+                "Localidad": "MARINA MANRESA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1290638,
+                    39.8655325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AGUAS CANALIZADAS DE ALCUDIA S.A.",
+                "Localidad": "PLATJA D'ALCÚDIA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1150456,
+                    39.8316751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AGUAS CANALIZADAS DE ALCUDIA S.A.",
+                "Localidad": "PORT D'ALCÚDIA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1329813,
+                    39.8419877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "FCC AQUALIA",
+                "Localidad": "CARRASCA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3414774,
+                    39.4793012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "LOMO ESPINO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5045039,
+                    28.1241369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+                "Localidad": "FERNANDINA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5611138,
+                    38.228596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+                "Localidad": "ISABELA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6873466,
+                    40.4304612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+                "Localidad": "NAVAS DE TOLOSA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5867366,
+                    38.2856077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AQUONA, S.A.",
+                "Localidad": "SAN ANDRÉS DEL RABANEDO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6168662,
+                    42.6112327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AQUONA, S.A.",
+                "Localidad": "BARRIO DE PINILLA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.594255,
+                    42.6055219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AQUONA, S.A.",
+                "Localidad": "SAN ANDRÉS DEL RABANEDO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6168662,
+                    42.6112327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AQUONA, S.A.",
+                "Localidad": "VILLABALTER",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6186768,
+                    42.6219703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "TORTAJADA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1679653,
+                    40.0122931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "VILLALBA BAJA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0772375,
+                    40.4232399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+                "Localidad": "CASAS DE LA PEÑA",
+                "Calidad del agua": "Agua no apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5260276,
+                    38.6776331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+                "Localidad": "VENTAS DE ALCOLEA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4413044,
+                    39.2788402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "ALTERNATIVA UNO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4890008,
+                    28.0415739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "ALVARADOS (LOS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4784709,
+                    28.0431893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "BEBEDERO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.5087803,
+                    28.3751365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "COLEGIO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4779711,
+                    28.0520955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "ESTANCO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0284092,
+                    36.8744575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "FUENTE LOS BERROS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4787884,
+                    28.038804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "LENTISCOS (LOS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4774416,
+                    28.0497285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "MOCANAL (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.9428265,
+                    27.8210684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "MONTE LENTISCAL",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4744486,
+                    28.0447469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "OLIVOS (LOS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4414457,
+                    37.4292102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "REVENTÓN (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9435111,
+                    40.9076415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "EJIDO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8124886,
+                    36.7743863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+                "Localidad": "OSSA DE MONTIEL",
+                "Calidad del agua": "Agua no apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7453748,
+                    38.9625266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+                "Localidad": "OSSA DE MONTIEL",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7453748,
+                    38.9625266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+                "Localidad": "SISANTE",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2028088,
+                    39.4075687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "ALMERIMAR",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8074558,
+                    36.707867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "EJIDO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8124886,
+                    36.7743863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "SANTA MARÍA DEL ÁGUILA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7736816,
+                    36.780645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMPRESA PROVINCIAL DE AGUAS DE CÓRDOBA S.A.",
+                "Localidad": "VILLANUEVA DE CÓRDOBA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6279655,
+                    38.3230235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "BALERMA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8870654,
+                    36.7314101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "CANALILLO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7151827,
+                    40.4532639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "GUARDIAS VIEJAS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8418645,
+                    36.7008594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "PARAÍSO AL MAR",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.853241,
+                    36.7051871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "ALFARP",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5605178,
+                    39.2767738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "BALERMA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8870654,
+                    36.7314101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "MATAGORDA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8416804,
+                    36.7240776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "PARAÍSO AL MAR",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.853241,
+                    36.7051871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "ARCO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8244943,
+                    41.1100862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "CADENAS (LAS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3686329,
+                    38.0081161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "CASTAÑO ALTO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4998746,
+                    28.028149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "CASTAÑO BAJO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5002569,
+                    28.0302304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "CRUCE LA ATALAYA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4886722,
+                    28.0351711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "GAMONAL BAJO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5035282,
+                    28.0220319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "MOLINO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1672449,
+                    41.3745513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "MONTAÑETA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.488257,
+                    38.344824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "MONTEBRAVO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4859627,
+                    28.03716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "PALMAREJO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5016681,
+                    28.0405533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "PALMERAL (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5136843,
+                    38.3223367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "PLAZA DOÑA LUISA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.487855,
+                    28.0379384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "SAN JOSÉ DE LAS VEGAS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4915156,
+                    28.033391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "SANTA BRÍGIDA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4974676,
+                    28.035684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "SATAUTEJO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4944186,
+                    28.0363049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMALSA",
+                "Localidad": "VEROLES (LOS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4841257,
+                    28.0358756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "LLOMBAI",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5731796,
+                    39.2816214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "NAVALÓN",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.292378,
+                    40.1226528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "SIETE AGUAS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9156646,
+                    39.4715188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "CATADAU",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5710963,
+                    39.2748065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "MONTROI/MONTROY",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6138111,
+                    39.3406742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "PLATJA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1705712,
+                    39.0105836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "IDEUS, INGENIERÍA PARA EL DESARROLLO URBANO SOSTENIBLE",
+                "Localidad": "BELLREGUARD PLATJA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1286991,
+                    38.9632804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "RÁFOL DE SALEM",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3972952,
+                    38.8659425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "CONCUD",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1469651,
+                    40.3801679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "CAUDÉ",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1928832,
+                    40.4109199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE HUESCA_22125_HUESCA",
+                "Localidad": "CUARTE",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4862896,
+                    42.1084546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE HUESCA_22125_HUESCA",
+                "Localidad": "HUERRIOS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4567988,
+                    42.141318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE HUESCA_22125_HUESCA",
+                "Localidad": "APIÉS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4027334,
+                    42.225294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AGUAS DE BURGOS",
+                "Localidad": "BURGOS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.696977,
+                    42.343926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "CENTRO NACIONAL DE TECNOLOGÍA Y SEGURIDAD ALIMENTARIA (CNTA)",
+                "Localidad": "TORREMONTALBO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6852289,
+                    42.5011722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AGUAS DE BURGOS",
+                "Localidad": "CORTES",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4206848,
+                    41.9235302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "FCC AQUALIA",
+                "Localidad": "SAN ROMÁN",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.077162,
+                    43.4488581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "SAN AGUSTÍN",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6930191,
+                    40.0591346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "NORIAS (LAS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9894544,
+                    38.0567011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "EJIDO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8124886,
+                    36.7743863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "COLINAS VENTA CABRERA DERECHA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5776023,
+                    39.3709463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "COLINAS VENTA CABRERA IZQUIERDA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5755074,
+                    39.3684251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "COLÒNIA CANYADA DEL PRIMAL",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5931115,
+                    39.3800727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "COLÒNIA MOTOR DEL VICARI",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5977986,
+                    39.3783211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "FLARE (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6089053,
+                    39.3737021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "MONTSERRAT",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6031,
+                    39.3576494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "NUESTRA SEÑORA DE LA ASUNCIÓN",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.329285,
+                    40.5536666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "EJIDO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8124886,
+                    36.7743863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "CENTRO NACIONAL DE TECNOLOGÍA Y SEGURIDAD ALIMENTARIA (CNTA)",
+                "Localidad": "CENICERO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6420483,
+                    42.4813371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "GUINICIO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0256336,
+                    42.7327523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "AYUELAS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0393954,
+                    42.696762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "MONTAÑANA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8248408,
+                    41.6864429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "IRCIO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9002811,
+                    42.6538682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "VALVERDE DE MIRANDA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9988844,
+                    42.651524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "REDONDA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7489952,
+                    40.9080833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DESARROLLO URBANISTICO DE EL EJIDO SL",
+                "Localidad": "SAN SILVESTRE",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5222558,
+                    42.9264157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES SANT LLUIS S.L.",
+                "Localidad": "SANT LLUÍS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2579831,
+                    39.8491294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES SANT LLUIS S.L.",
+                "Localidad": "SANT LLUÍS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2579831,
+                    39.8491294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES SANT LLUIS S.L.",
+                "Localidad": "SANT LLUÍS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2579831,
+                    39.8491294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES SANT LLUIS S.L.",
+                "Localidad": "SANT LLUÍS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2579831,
+                    39.8491294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES SANT LLUIS S.L.",
+                "Localidad": "SANT LLUÍS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2579831,
+                    39.8491294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "MANCOMUNIDAD SERVICIOS COMARCA SANGÜESA",
+                "Localidad": "AYESA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4214783,
+                    42.5710983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES SANT LLUIS S.L.",
+                "Localidad": "SANT LLUÍS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2579831,
+                    39.8491294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES SANT LLUIS S.L.",
+                "Localidad": "SANT LLUÍS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2579831,
+                    39.8491294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "MANCOMUNIDAD SERVICIOS COMARCA SANGÜESA",
+                "Localidad": "GALLIPIENZO/GALIPENTZU",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4100849,
+                    42.5243351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "MANCOMUNIDAD SERVICIOS COMARCA SANGÜESA",
+                "Localidad": "LERGA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5006508,
+                    42.5667872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "MANCOMUNIDAD SERVICIOS COMARCA SANGÜESA",
+                "Localidad": "GALLIPIENZO NUEVO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3906956,
+                    42.5297069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES SANT LLUIS S.L.",
+                "Localidad": "SANT LLUÍS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2579831,
+                    39.8491294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "MANCOMUNIDAD SERVICIOS COMARCA SANGÜESA",
+                "Localidad": "ESLAVA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4594701,
+                    42.5643609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+                "Localidad": "FUENTE ÁLAMO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4492231,
+                    38.7053213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "ÁNGELES (LOS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4183979,
+                    40.2480674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "ARCE",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3780488,
+                    42.8893956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "AZUCARERA LEOPOLDO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9259399,
+                    42.697379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "BAYAS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9209681,
+                    42.6864086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "LAGO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9004242,
+                    42.6783449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "FCC AQUALIA",
+                "Localidad": "VEREDA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6623148,
+                    40.0363925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROGEA",
+                "Localidad": "ARROYO HURTADO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6757738,
+                    38.0959878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROGEA",
+                "Localidad": "VALENTÍN",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7205747,
+                    38.1848667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROGEA",
+                "Localidad": "CHAPARRAL",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.282111,
+                    42.722703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "FCC AQUALIA",
+                "Localidad": "CHERÍN",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0132958,
+                    36.9669484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "ALTO SAN ROQUE",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9656829,
+                    42.6887118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "ARBOLEDA/LOS LINARES",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9407278,
+                    42.6776205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "CHARCA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.1161984,
+                    40.9387993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "CRUCERO (EL)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.691302,
+                    42.3356543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "CRUCERO II",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9689694,
+                    42.6811892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "MATILLAS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8429304,
+                    40.9524796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "MIRANDA DE EBRO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9478451,
+                    42.6855632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "NAVE (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9399653,
+                    41.5878594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE MIRANDA DE EBRO_9219_BURGOS",
+                "Localidad": "ORÓN",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9814,
+                    42.6701922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "FCC AQUALIA",
+                "Localidad": "SANTOS DE MAIMONA (LOS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3817648,
+                    38.4494338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "LABORATORIOS ALFARO",
+                "Localidad": "ENTRENA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5299193,
+                    42.387465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "DIASA INDUSTRIAL S .A.",
+                "Localidad": "ALDEANUEVA DE EBRO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8880858,
+                    42.2293469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROGEA",
+                "Localidad": "CANARA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7681668,
+                    38.1410991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROGEA",
+                "Localidad": "CORTIJO CAPEL",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7702924,
+                    38.1353694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROGEA",
+                "Localidad": "PILA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2366765,
+                    38.2612644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROGEA",
+                "Localidad": "VIRGEN DE LA PEÑA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.1936438,
+                    43.3230254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "LABORATORIOS ALFARO",
+                "Localidad": "IGEA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0092614,
+                    42.0686394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GLOBAL OMNIUM",
+                "Localidad": "CASTELLÓ",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0615052,
+                    40.2518568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "LABORATORIOS ALFARO",
+                "Localidad": "TORRECILLA EN CAMEROS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6305716,
+                    42.2560793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "LABORATORIOS ALFARO",
+                "Localidad": "GRÁVALOS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0001963,
+                    42.1083069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "LABORATORIOS ALFARO",
+                "Localidad": "GALILEA",
+                "Calidad del agua": "Agua no apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2370324,
+                    42.3475858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "LABORATORIOS ALFARO",
+                "Localidad": "AGUILAR DEL RÍO ALHAMA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.993993,
+                    41.9624974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "LABORATORIOS ALFARO",
+                "Localidad": "INESTRILLAS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9851576,
+                    41.9699665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GIAHSA. GESTION INTEGRAL DEL AGUA DE HUELVA",
+                "Localidad": "SAN SILVESTRE DE GUZMÁN",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3478655,
+                    37.3894253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "GIAHSA. GESTION INTEGRAL DEL AGUA DE HUELVA",
+                "Localidad": "VILLABLANCA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3423138,
+                    37.3028005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMPRESA PROVINCIAL DE AGUAS DE CÓRDOBA S.A.",
+                "Localidad": "BOCAS DEL RIGUELO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.753754,
+                    37.3748158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMPRESA PROVINCIAL DE AGUAS DE CÓRDOBA S.A.",
+                "Localidad": "CORDOBILLA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7284056,
+                    37.3586779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMPRESA PROVINCIAL DE AGUAS DE CÓRDOBA S.A.",
+                "Localidad": "PALOMAR",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5409548,
+                    42.2957355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMPRESA PROVINCIAL DE AGUAS DE CÓRDOBA S.A.",
+                "Localidad": "PUENTE GENIL",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7716241,
+                    37.387395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMPRESA PROVINCIAL DE AGUAS DE CÓRDOBA S.A.",
+                "Localidad": "RIBERA ALTA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9040573,
+                    42.7979967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMPRESA PROVINCIAL DE AGUAS DE CÓRDOBA S.A.",
+                "Localidad": "RIBERA BAJA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9076507,
+                    42.7255641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMPRESA PROVINCIAL DE AGUAS DE CÓRDOBA S.A.",
+                "Localidad": "SOTOGORDO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5980868,
+                    37.9524295
+                ]
+            }
+        }
+    ]
+}
