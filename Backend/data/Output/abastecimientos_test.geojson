@@ -1,0 +1,549 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROBAL",
+                "Localidad": "CALA EN PORTER",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1351281,
+                    39.8686909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROBAL",
+                "Localidad": "ALAIOR",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1397673,
+                    39.9337077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AYTO. DE CIUTADELLA DE MENORCA_7015_ILLES BALEARS",
+                "Localidad": "SERPENTONA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9601207,
+                    39.9415281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROBAL",
+                "Localidad": "CASTELL (ES)",
+                "Calidad del agua": "Agua no apta para el consumo",
+                "Comentario": "Agua NO APTA para consumo humano por exceso de nitratos. No usarla para beber ni para cocinar."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9317504,
+                    39.1525265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROBAL",
+                "Localidad": "MAÓ",
+                "Calidad del agua": "Agua no apta para el consumo",
+                "Comentario": "Agua NO APTA para consumo humano por exceso de nitratos. No usarla para beber ni para cocinar."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2662071,
+                    39.8894922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROBAL",
+                "Localidad": "ARGENTINA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.4911535,
+                    -34.6891312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROBAL",
+                "Localidad": "MAÓ",
+                "Calidad del agua": "Agua no apta para el consumo",
+                "Comentario": "Agua NO APTA para consumo humano por exceso de nitratos. No usarla para beber ni para cocinar."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2662071,
+                    39.8894922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROBAL",
+                "Localidad": "MAÓ",
+                "Calidad del agua": "Agua no apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2662071,
+                    39.8894922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "BENIDORM",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1290929,
+                    38.5406255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROBAL",
+                "Localidad": "SANTANYÍ",
+                "Calidad del agua": "Agua no apta para el consumo",
+                "Comentario": "Agua NO APTA para consumo humano por exceso de nitratos. No usarla para beber ni para cocinar."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1294799,
+                    39.3543115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROBAL",
+                "Localidad": "SALINES (SES)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.054137,
+                    39.3391978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROBAL",
+                "Localidad": "COLÒNIA DE SANT JORDI",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9924466,
+                    39.3183566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "FCC AQUALIA",
+                "Localidad": "MURO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0567069,
+                    39.7370637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "ALMAFRA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1046425,
+                    38.5601064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "BENIDORM",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1290929,
+                    38.5406255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDRAQUA",
+                "Localidad": "COBLANCA",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1318586,
+                    38.5662121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AGUAS DE CEUTA, EMPRESA MUNICIPAL, S.A. (ACEMSA)",
+                "Localidad": "BENZÚ",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3730766,
+                    35.9160806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMUASA",
+                "Localidad": "BARQUEROS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3695758,
+                    37.9404921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "HIDROBAL",
+                "Localidad": "CA'N PICAFORT",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0268829,
+                    39.771272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "FACSA",
+                "Localidad": "CÀLIG",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3548686,
+                    40.4619719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "SOREA, SOCIEDAD REGIONAL DE ABASTECIMIENTO DE AGUAS, S.A.U",
+                "Localidad": "BENICARLÓ",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4229813,
+                    40.4180244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES DE BARCELONA, EMPRESA METROPOLITANA DE GESTIÓ DEL CICLE INTEGRAL DE L'AIGUA S.A.",
+                "Localidad": "BEGUES",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.925468,
+                    41.3328119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES DE BARCELONA, EMPRESA METROPOLITANA DE GESTIÓ DEL CICLE INTEGRAL DE L'AIGUA S.A.",
+                "Localidad": "CASTELLDEFELS",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9824173,
+                    41.2861022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES DE BARCELONA, EMPRESA METROPOLITANA DE GESTIÓ DEL CICLE INTEGRAL DE L'AIGUA S.A.",
+                "Localidad": "SANT CLIMENT DE LLOBREGAT",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9970575,
+                    41.3366993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES DE BARCELONA, EMPRESA METROPOLITANA DE GESTIÓ DEL CICLE INTEGRAL DE L'AIGUA S.A.",
+                "Localidad": "GAVÀ",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0063126,
+                    41.3050933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES DE BARCELONA, EMPRESA METROPOLITANA DE GESTIÓ DEL CICLE INTEGRAL DE L'AIGUA S.A.",
+                "Localidad": "SANT BOI DE LLOBREGAT",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0413673,
+                    41.3459033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "AIGÜES DE BARCELONA, EMPRESA METROPOLITANA DE GESTIÓ DEL CICLE INTEGRAL DE L'AIGUA S.A.",
+                "Localidad": "SANTA COLOMA CERVELLÓ - CASC ANTIC",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0162618,
+                    41.3688698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMUASA",
+                "Localidad": "CONESAS (LOS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0748981,
+                    37.719363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMUASA",
+                "Localidad": "GARCÍAS (LOS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0304168,
+                    37.6082268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMUASA",
+                "Localidad": "GRANJA (LA)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9946107,
+                    40.2393229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMUASA",
+                "Localidad": "LOBOSILLO",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0826551,
+                    37.7294948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMUASA",
+                "Localidad": "ROMERAS (LOS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0768309,
+                    37.7230727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMUASA",
+                "Localidad": "URREAS (LOS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0857996,
+                    37.7363004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Gestor": "EMUASA",
+                "Localidad": "VIDALES (LOS)",
+                "Calidad del agua": "Agua apta para el consumo",
+                "Comentario": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0828302,
+                    37.7172028
+                ]
+            }
+        }
+    ]
+}
