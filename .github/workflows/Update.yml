@@ -2,7 +2,7 @@ name: Actualizar GeoJSON
 
 on:
   schedule:
-    - cron: '0 20 * * 3'  # Domingo a las 20hs
+    - cron: '0 20 * * 3'  # Domingo a las 20hs UTC
   workflow_dispatch:
 
 jobs:
@@ -21,16 +21,16 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
+      - name: Crear carpetas necesarias
+        run: mkdir -p Backend/data/Output
+
       - name: Ejecutar script
-        run: python scr/Backend/Calidad_agua.py   # Cambiá si tu script está en otra carpeta
+        run: python scr/Backend/Calidad_agua.py
 
       - name: Commit y push de cambios
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add scr/Backend/data/Output/abastecimientos_test.geojson
-          git add scr/Backend/data/Output/abastecimientos_errors.geojson
-          git add scr/Backend/data/Output/geocode_cache.json
-          git add scr/Backend/data/Output/progress.json
-          git commit -m "Actualización automática"
+          git add Backend/data/Output/*
+          git commit -m "Actualización automática" || echo "No hay cambios para commitear"
           git push
