@@ -19,7 +19,7 @@ jobs:
           python-version: '3.10'
 
       - name: Instalar dependencias
-        run: pip install -r scr/requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Ejecutar script
         run: python scr/Backend/Calidad_agua.py   # Cambiá si tu script está en otra carpeta
