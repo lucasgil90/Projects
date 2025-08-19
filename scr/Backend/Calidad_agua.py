@@ -16,7 +16,7 @@ CONFIG = {
     "max_workers": 9, # Número máximo de hilos para ejecutar en paralelo.
     "pause_geocode": 0.0, # Pausa en segundos entre cada llamada a la API de geocodificación para evitar bloqueos.
     "base_url": "https://sinac.sanidad.gob.es/CiudadanoWeb/ciudadano/informacionAbastecimientoActionCA.do?idRed=", # URL base para el scraping.
-    "zip_range": (1, 25500) # Rango de IDs (códigos postales) a procesar.
+    "zip_range": (1, 15500) # Rango de IDs (códigos postales) a procesar. Total 25500
 }
 
 def setup_environment():
@@ -243,4 +243,5 @@ def main():
 
 if __name__ == "__main__":
     main() # Inicia el script si se ejecuta directamente.
+
 
