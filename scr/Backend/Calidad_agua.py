@@ -138,8 +138,11 @@ def obtener_y_procesar_datos(idred):
         localidades = [clean_text(loc) for loc in localidades_html.stripped_strings] # Extrae las localidades.
         calidad = clean_text(soup.find("th", text="Calidad del agua").find_next("td").text) # Extrae la calidad del agua.
         comentario_tag = soup.find("th", text="Comentario Aut. Sanitaria") # Busca el tag de comentario.
-        comentario = clean_text(comentario_tag.find_next("td").text.strip()) if comentario_tag else "-" # Extrae el comentario o pone un guión.
-
+        if comentario_tag:
+            comentario_text = comentario_tag.text.strip()
+            comentario = clean_text(comentario_text) if comentario_text else "-"
+        else:
+            comentario = "-"
         for loc in localidades: # Itera sobre cada localidad.
             coords = geocode_with_retry(loc, idred) # Geocodifica la localidad.
             time.sleep(CONFIG['pause_geocode']) # Pausa para no sobrecargar la API.
@@ -243,6 +246,7 @@ def main():
 
 if __name__ == "__main__":
     main() # Inicia el script si se ejecuta directamente.
+
 
 
 
