@@ -13,10 +13,10 @@ CONFIG = {
     # Estos valores se inicializan como None y se asignarán a partir de las variables de entorno.
     "output_dir": None,
     "state_dir": None,
-    "max_workers": 9, # Número máximo de hilos para ejecutar en paralelo.
+    "max_workers": 12, # Número máximo de hilos para ejecutar en paralelo.
     "pause_geocode": 0.0, # Pausa en segundos entre cada llamada a la API de geocodificación para evitar bloqueos.
     "base_url": "https://sinac.sanidad.gob.es/CiudadanoWeb/ciudadano/informacionAbastecimientoActionCA.do?idRed=", # URL base para el scraping.
-    "zip_range": (15500, 25500) # Rango de IDs (códigos postales) a procesar. Total 25500
+    "zip_range": (1, 25500) # Rango de IDs (códigos postales) a procesar. Total 25500
 }
 
 def setup_environment():
@@ -246,6 +246,7 @@ def main():
 
 if __name__ == "__main__":
     main() # Inicia el script si se ejecuta directamente.
+
 
 
 
