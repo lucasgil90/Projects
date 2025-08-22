@@ -1,0 +1,7 @@
+2025-08-22 07:25:47,677 [INFO] Se ha cargado el caché de geocodificación con 26582 entradas.
+2025-08-22 07:25:47,680 [INFO] Se han cargado 25499 IDs procesados previamente.
+2025-08-22 07:25:47,773 [INFO] Se han cargado 26546 features del archivo de salida existente.
+2025-08-22 07:25:47,779 [INFO] Se han cargado 1450 features del archivo de errores existente.
+2025-08-22 07:25:48,272 [WARNING] Se han guardado 1450 features con errores de geocodificación en 'docs/abastecimientos_errors.geojson'.
+2025-08-22 07:25:48,391 [INFO] Proceso completado. Total features OK: 26546. Archivo: docs/abastecimientos_test.geojson
+2025-08-22 07:25:48,391 [INFO] Total features con error: 1450.
