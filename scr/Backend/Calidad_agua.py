@@ -119,9 +119,10 @@ def obtener_y_procesar_datos(idred):
         localidades_html = soup.find("th", text="Localidades abastecidas").find_next("td")
         localidades = [clean_text(loc) for loc in localidades_html.stripped_strings]
         calidad = clean_text(soup.find("th", text="Calidad del agua").find_next("td").text)
-        comentario_tag = soup.find("th", text="Comentario Aut. Sanitaria")
+        comentario_tag = soup.find("th", string="Comentario Aut. Sanitaria")
         if comentario_tag:
-            comentario_text = comentario_tag.text.strip()
+            comentario_td = comentario_tag.find_next("td")
+            comentario_text = comentario_td.get_text(strip=True) if comentario_td else ""
             comentario = clean_text(comentario_text) if comentario_text else "-"
         else:
             comentario = "-"
@@ -209,3 +210,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
