@@ -3,11 +3,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "EMUASA",
-            "Localidad": "30030000399*DISEMINADO*",
+            "Localidad": "30030000899*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 37,
-            "denominacion": "EMUASA MCT BARQUEROS PERIFERICO 2"
+            "idRed": 35,
+            "denominacion": "EMUASA MCT LOBOSILLO PERIFERICO 1"
         },
         "geometry": {
             "type": "Point",
@@ -21,11 +21,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "EMUASA",
-            "Localidad": "30030000899*DISEMINADO*",
+            "Localidad": "30030000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 35,
-            "denominacion": "EMUASA MCT LOBOSILLO PERIFERICO 1"
+            "idRed": 37,
+            "denominacion": "EMUASA MCT BARQUEROS PERIFERICO 2"
         },
         "geometry": {
             "type": "Point",
@@ -183,11 +183,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "SGAB, SOCIEDAD GENERAL DE AGUAS DE BARCELONA SAU",
-            "Localidad": "MAS VILAR DE LA MUTXADA",
+            "Localidad": "URBANITZACIÓ MAS ALTABA",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 155,
-            "denominacion": "XARXA RONQUILLO"
+            "idRed": 142,
+            "denominacion": "RED DE BAJA DE MAÇANET DE LA SELVA"
         },
         "geometry": {
             "type": "Point",
@@ -201,11 +201,29 @@
         "type": "Feature",
         "properties": {
             "Gestor": "SGAB, SOCIEDAD GENERAL DE AGUAS DE BARCELONA SAU",
-            "Localidad": "MAS FALET DEL MIGDIA",
+            "Localidad": "URBANITZACIÓ PANTANS DE MONTBARBAT",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 156,
-            "denominacion": "XARXA DISTRIBUCIÓ CALONGE VILA I SANT ANTONI"
+            "idRed": 142,
+            "denominacion": "RED DE BAJA DE MAÇANET DE LA SELVA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "SGAB, SOCIEDAD GENERAL DE AGUAS DE BARCELONA SAU",
+            "Localidad": "MAS VILAR DE LA MUTXADA",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 155,
+            "denominacion": "XARXA RONQUILLO"
         },
         "geometry": {
             "type": "Point",
@@ -255,29 +273,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "SGAB, SOCIEDAD GENERAL DE AGUAS DE BARCELONA SAU",
-            "Localidad": "URBANITZACIÓ MAS ALTABA",
+            "Localidad": "MAS FALET DEL MIGDIA",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 142,
-            "denominacion": "RED DE BAJA DE MAÇANET DE LA SELVA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "SGAB, SOCIEDAD GENERAL DE AGUAS DE BARCELONA SAU",
-            "Localidad": "URBANITZACIÓ PANTANS DE MONTBARBAT",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 142,
-            "denominacion": "RED DE BAJA DE MAÇANET DE LA SELVA"
+            "idRed": 156,
+            "denominacion": "XARXA DISTRIBUCIÓ CALONGE VILA I SANT ANTONI"
         },
         "geometry": {
             "type": "Point",
@@ -512,96 +512,6 @@
             "Comentario": "-",
             "idRed": 173,
             "denominacion": "XARXA ROSES"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE TORROELLA DE MONTGRÍ_17199_GIRONA",
-            "Localidad": "URBANITZACIÓ ELS GRIELLS-LA PLETERA",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 172,
-            "denominacion": "XARXA TORROELLA-L'ESTARTIT-ULLÀ"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE TORROELLA DE MONTGRÍ_17199_GIRONA",
-            "Localidad": "URBANITZACIÓ LES DUNES",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 172,
-            "denominacion": "XARXA TORROELLA-L'ESTARTIT-ULLÀ"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE TORROELLA DE MONTGRÍ_17199_GIRONA",
-            "Localidad": "URBANITZACIÓ MAS PINELL-LA GOLA",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 172,
-            "denominacion": "XARXA TORROELLA-L'ESTARTIT-ULLÀ"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE TORROELLA DE MONTGRÍ_17199_GIRONA",
-            "Localidad": "URBANITZACIÓ TORRE GRAN-TORRE VELLA",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 172,
-            "denominacion": "XARXA TORROELLA-L'ESTARTIT-ULLÀ"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE TORROELLA DE MONTGRÍ_17199_GIRONA",
-            "Localidad": "URBANITZACIÓ TORRE MORATXA",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 172,
-            "denominacion": "XARXA TORROELLA-L'ESTARTIT-ULLÀ"
         },
         "geometry": {
             "type": "Point",
@@ -992,6 +902,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "ESPINA & DELFÍN, S. L.",
+            "Localidad": "REGO DA MANGA (O)",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 320,
+            "denominacion": "RED DE DISTRIBUCIÓN PADRÓN-ZA PADRÓN"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "HIDROGEA",
             "Localidad": "30016180499*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -1028,24 +956,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "ESPINA & DELFÍN, S. L.",
-            "Localidad": "REGO DA MANGA (O)",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 320,
-            "denominacion": "RED DE DISTRIBUCIÓN PADRÓN-ZA PADRÓN"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "AYTO. DE SILLEDA_36052_PONTEVEDRA",
             "Localidad": "CARDERREY",
             "Calidad del agua": "Agua apta para el consumo",
@@ -1070,24 +980,6 @@
             "Comentario": "-",
             "idRed": 354,
             "denominacion": "SILLEDA RED"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "ESPINA & DELFÍN, S. L.",
-            "Localidad": "POLíGONO INDUSTRIAL \"DAVID FERRER GARRIDO\"",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 351,
-            "denominacion": "SAN CIBRAO DAS VIÑAS RED"
         },
         "geometry": {
             "type": "Point",
@@ -1154,24 +1046,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "EMPRESA MIXTA AIGÜES DE L'HORTA, S.A:",
-            "Localidad": "MASÍA DEL JUEZ",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 371,
-            "denominacion": "TORRENT 1 - CASCO URBANO Y VEDAT"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "HIDROGEA",
             "Localidad": "30035000999*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -1191,11 +1065,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "HIDROGEA",
-            "Localidad": "30035000299*DISEMINADO*",
+            "Localidad": "30035001099*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 388,
-            "denominacion": "SAN JAVIER CASCO"
+            "idRed": 389,
+            "denominacion": "SANTIAGO DE LA RIBERA CASCO (SAN JAVIER)"
         },
         "geometry": {
             "type": "Point",
@@ -1209,11 +1083,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "HIDROGEA",
-            "Localidad": "30035001099*DISEMINADO*",
+            "Localidad": "30035000299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 389,
-            "denominacion": "SANTIAGO DE LA RIBERA CASCO (SAN JAVIER)"
+            "idRed": 388,
+            "denominacion": "SAN JAVIER CASCO"
         },
         "geometry": {
             "type": "Point",
@@ -1317,11 +1191,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CANAL DE ISABEL II, S.A.M.P.",
-            "Localidad": "28063000799*DISEMINADO*",
+            "Localidad": "ESTACIÓN DE GASCONES-BUITRAGO",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 425,
-            "denominacion": "CYII RED DE GARGANTILLA DEL LOZOYA"
+            "idRed": 428,
+            "denominacion": "CYII RED DE GASCONES"
         },
         "geometry": {
             "type": "Point",
@@ -1335,11 +1209,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CANAL DE ISABEL II, S.A.M.P.",
-            "Localidad": "ESTACIÓN DE GASCONES-BUITRAGO",
+            "Localidad": "28063000799*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 428,
-            "denominacion": "CYII RED DE GASCONES"
+            "idRed": 425,
+            "denominacion": "CYII RED DE GARGANTILLA DEL LOZOYA"
         },
         "geometry": {
             "type": "Point",
@@ -1389,24 +1263,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CANAL DE ISABEL II, S.A.M.P.",
-            "Localidad": "URBANIZACIÓN VALDEPERALES",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 468,
-            "denominacion": "CYII RED DE TAJUÑA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "CANAL DE ISABEL II, S.A.M.P.",
             "Localidad": "CIUDAD DE LOS MUCHACHOS Y MAJADA DE LOS PALANES",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -1425,29 +1281,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CANAL DE ISABEL II, S.A.M.P.",
-            "Localidad": "VALLEFRESNOS-EL PEÑÓN",
+            "Localidad": "URBANIZACIÓN VALDEPERALES",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 467,
-            "denominacion": "CYII RED DE GUADARRAMA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "CANAL DE ISABEL II, S.A.M.P.",
-            "Localidad": "28068000699*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 467,
-            "denominacion": "CYII RED DE GUADARRAMA"
+            "idRed": 468,
+            "denominacion": "CYII RED DE TAJUÑA"
         },
         "geometry": {
             "type": "Point",
@@ -1520,6 +1358,42 @@
             "Comentario": "-",
             "idRed": 463,
             "denominacion": "CYII RED DE SAN LORENZO DEL ESCORIAL"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "CANAL DE ISABEL II, S.A.M.P.",
+            "Localidad": "VALLEFRESNOS-EL PEÑÓN",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 467,
+            "denominacion": "CYII RED DE GUADARRAMA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "CANAL DE ISABEL II, S.A.M.P.",
+            "Localidad": "28068000699*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 467,
+            "denominacion": "CYII RED DE GUADARRAMA"
         },
         "geometry": {
             "type": "Point",
@@ -1803,11 +1677,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AGUAS MUNICIPALIZADAS DE ALICANTE EMPRESA MIXTA (AMAEM)",
-            "Localidad": "03014001299*DISEMINADO*",
+            "Localidad": "03014000599*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 677,
-            "denominacion": "ALICANTE 3 - URBANOVA REBOLLEDO Y OTRAS ENTIDADES SINGULARES"
+            "idRed": 680,
+            "denominacion": "ALICANTE 6 - CAÑADA MORALET Y OTRAS ENTIDADES SINGULARES"
         },
         "geometry": {
             "type": "Point",
@@ -1821,11 +1695,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AGUAS MUNICIPALIZADAS DE ALICANTE EMPRESA MIXTA (AMAEM)",
-            "Localidad": "03014000599*DISEMINADO*",
+            "Localidad": "03014001299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 680,
-            "denominacion": "ALICANTE 6 - CAÑADA MORALET Y OTRAS ENTIDADES SINGULARES"
+            "idRed": 677,
+            "denominacion": "ALICANTE 3 - URBANOVA REBOLLEDO Y OTRAS ENTIDADES SINGULARES"
         },
         "geometry": {
             "type": "Point",
@@ -2019,11 +1893,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "FCC AQUALIA",
-            "Localidad": "11035001099*DISEMINADO*",
+            "Localidad": "11035000299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 901,
-            "denominacion": "AQS-TARIFA-RED FACINAS"
+            "idRed": 899,
+            "denominacion": "AQS-TARIFA RED ZARZUELA-ALMARCHAL"
         },
         "geometry": {
             "type": "Point",
@@ -2037,11 +1911,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "FCC AQUALIA",
-            "Localidad": "11035000299*DISEMINADO*",
+            "Localidad": "11035001099*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 899,
-            "denominacion": "AQS-TARIFA RED ZARZUELA-ALMARCHAL"
+            "idRed": 901,
+            "denominacion": "AQS-TARIFA-RED FACINAS"
         },
         "geometry": {
             "type": "Point",
@@ -2144,6 +2018,42 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "HIDRAQUA",
+            "Localidad": "GLORIA (LA)-CALVARI (EL)-GIALMA",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 986,
+            "denominacion": "RED MUTXAMEL"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "HIDROGEA",
+            "Localidad": "30001000999*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 1001,
+            "denominacion": "RED CAÑADA DE LA LEÑA ABANILLA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "HIDROGEA",
             "Localidad": "30001000599*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -2168,24 +2078,6 @@
             "Comentario": "-",
             "idRed": 1000,
             "denominacion": "RED EL CANTÓN ABANILLA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "HIDROGEA",
-            "Localidad": "30001000999*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 1001,
-            "denominacion": "RED CAÑADA DE LA LEÑA ABANILLA"
         },
         "geometry": {
             "type": "Point",
@@ -2343,6 +2235,24 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CANARAGUA CONCESIONES, S.A.",
+            "Localidad": "38026002599*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 1104,
+            "denominacion": "AC LA OROTAVA RED BOLAÑOS"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "CANARAGUA CONCESIONES, S.A.",
             "Localidad": "38026000299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -2366,24 +2276,6 @@
             "Comentario": "-",
             "idRed": 1101,
             "denominacion": "AC LA OROTAVA RED SAN JERONIMO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "CANARAGUA CONCESIONES, S.A.",
-            "Localidad": "38026002599*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 1104,
-            "denominacion": "AC LA OROTAVA RED BOLAÑOS"
         },
         "geometry": {
             "type": "Point",
@@ -3441,24 +3333,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AGUAS DE TELDE GESTIÓN INTEGRAL DEL SERVICIO, S.A.",
-            "Localidad": "35026002499*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 1501,
-            "denominacion": "AC TELDE RED MONTAÑA LAS PALMAS"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AGUAS DE TELDE GESTIÓN INTEGRAL DEL SERVICIO, S.A.",
             "Localidad": "35026002599*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -3500,6 +3374,24 @@
             "Comentario": "-",
             "idRed": 1504,
             "denominacion": "AC TELDE RED SAN JOSÉ TELDE DEP EL GORO"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AGUAS DE TELDE GESTIÓN INTEGRAL DEL SERVICIO, S.A.",
+            "Localidad": "35026002499*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 1501,
+            "denominacion": "AC TELDE RED MONTAÑA LAS PALMAS"
         },
         "geometry": {
             "type": "Point",
@@ -3800,6 +3692,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "VEÏNAT DE LES SERRES",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 1644,
+            "denominacion": "CASSÀ DE LA SELVA-XARXA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "ACCIONA AGUA SERVICIOS, S.L.U.",
             "Localidad": "30018000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -3837,11 +3747,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
-            "Localidad": "30021020299*DISEMINADO*",
+            "Localidad": "30021020199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 1678,
-            "denominacion": "RED ESTRECHO (FUENTE ALAMO)"
+            "idRed": 1677,
+            "denominacion": "RED BALSAPINTADA (FUENTE ALAMO)"
         },
         "geometry": {
             "type": "Point",
@@ -3855,11 +3765,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
-            "Localidad": "30021020199*DISEMINADO*",
+            "Localidad": "30021020299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 1677,
-            "denominacion": "RED BALSAPINTADA (FUENTE ALAMO)"
+            "idRed": 1678,
+            "denominacion": "RED ESTRECHO (FUENTE ALAMO)"
         },
         "geometry": {
             "type": "Point",
@@ -3909,6 +3819,24 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+            "Localidad": "30021080399*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 1683,
+            "denominacion": "RED PAGANES (FUENTE ALAMO)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
             "Localidad": "30021090199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -3945,11 +3873,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
-            "Localidad": "30021080399*DISEMINADO*",
+            "Localidad": "30021100599*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 1683,
-            "denominacion": "RED PAGANES (FUENTE ALAMO)"
+            "idRed": 1684,
+            "denominacion": "RED LA PINILLA (FUENTE ALAMO)"
         },
         "geometry": {
             "type": "Point",
@@ -3963,11 +3891,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
-            "Localidad": "30021100599*DISEMINADO*",
+            "Localidad": "30021080299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 1684,
-            "denominacion": "RED LA PINILLA (FUENTE ALAMO)"
+            "idRed": 1685,
+            "denominacion": "RED CANOVAS (FUENTE ALAMO)"
         },
         "geometry": {
             "type": "Point",
@@ -4004,24 +3932,6 @@
             "Comentario": "-",
             "idRed": 1679,
             "denominacion": "RED LAS PALAS (FUENTE ALAMO)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
-            "Localidad": "30021080299*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 1685,
-            "denominacion": "RED CANOVAS (FUENTE ALAMO)"
         },
         "geometry": {
             "type": "Point",
@@ -4071,11 +3981,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AYTO. DE ZARAGOZA_50297_ZARAGOZA",
-            "Localidad": "50297001099*DISEMINADO*",
+            "Localidad": "50297001699*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 1720,
-            "denominacion": "AYTO ZARAGOZA RED PEÑAFLOR"
+            "idRed": 1722,
+            "denominacion": "AYTO ZARAGOZA-VILLARRAPA RED VILLARRAPA"
         },
         "geometry": {
             "type": "Point",
@@ -4089,11 +3999,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AYTO. DE ZARAGOZA_50297_ZARAGOZA",
-            "Localidad": "50297001699*DISEMINADO*",
+            "Localidad": "50297001099*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 1722,
-            "denominacion": "AYTO ZARAGOZA-VILLARRAPA RED VILLARRAPA"
+            "idRed": 1720,
+            "denominacion": "AYTO ZARAGOZA RED PEÑAFLOR"
         },
         "geometry": {
             "type": "Point",
@@ -4359,42 +4269,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "FCC AQUALIA",
-            "Localidad": "11901000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 2067,
-            "denominacion": "AQS-BENALUP-RED BENALUP"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "11901000299*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 2067,
-            "denominacion": "AQS-BENALUP-RED BENALUP"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
             "Localidad": "11025000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -4413,11 +4287,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AYTO. DE ORIA_4070_ALMERÍA",
-            "Localidad": "04070000699*DISEMINADO*",
+            "Localidad": "04070000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 2163,
-            "denominacion": "AYTO ORIA - ZA RAMBLA DE ORIA - RED RAMBLA DE ORIA"
+            "idRed": 2164,
+            "denominacion": "AYTO ORIA - ZA FUENTE EL NEGRO - RED FUENTE EL NEGRO"
         },
         "geometry": {
             "type": "Point",
@@ -4431,11 +4305,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AYTO. DE ORIA_4070_ALMERÍA",
-            "Localidad": "04070000199*DISEMINADO*",
+            "Localidad": "04070000699*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 2164,
-            "denominacion": "AYTO ORIA - ZA FUENTE EL NEGRO - RED FUENTE EL NEGRO"
+            "idRed": 2163,
+            "denominacion": "AYTO ORIA - ZA RAMBLA DE ORIA - RED RAMBLA DE ORIA"
         },
         "geometry": {
             "type": "Point",
@@ -4647,47 +4521,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GRUP CASSA",
-            "Localidad": "25078000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 2293,
-            "denominacion": "XARXA-CORBINS"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "GRUP CASSA",
             "Localidad": "25102000199*DISEMINADO*",
             "Calidad del agua": "Agua no apta para el consumo",
             "Comentario": "-",
             "idRed": 2295,
             "denominacion": "XARXA-LA GRANJA D'ESCARP"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "GRUP CASSA",
-            "Localidad": "08247000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 2296,
-            "denominacion": "XARXA SANTA EULÀLIA DE RIUPRIMER"
         },
         "geometry": {
             "type": "Point",
@@ -4719,11 +4557,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GRUP CASSA",
-            "Localidad": "25053000199*DISEMINADO*",
+            "Localidad": "25078000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 2317,
-            "denominacion": "XARXA-BENAVENT DE SEGRIÀ"
+            "idRed": 2293,
+            "denominacion": "XARXA-CORBINS"
         },
         "geometry": {
             "type": "Point",
@@ -4737,11 +4575,29 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GRUP CASSA",
-            "Localidad": "25003000299*DISEMINADO*",
+            "Localidad": "08247000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 2320,
-            "denominacion": "XARXA-ALMENARA ALTA (AGRAMUNT)"
+            "idRed": 2296,
+            "denominacion": "XARXA SANTA EULÀLIA DE RIUPRIMER"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GRUP CASSA",
+            "Localidad": "25053000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 2317,
+            "denominacion": "XARXA-BENAVENT DE SEGRIÀ"
         },
         "geometry": {
             "type": "Point",
@@ -4778,6 +4634,24 @@
             "Comentario": "-",
             "idRed": 2319,
             "denominacion": "XARXA-AGRAMUNT"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GRUP CASSA",
+            "Localidad": "25003000299*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 2320,
+            "denominacion": "XARXA-ALMENARA ALTA (AGRAMUNT)"
         },
         "geometry": {
             "type": "Point",
@@ -4952,60 +4826,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "ESPINA & DELFÍN, S. L.",
-            "Localidad": "BENTÍN",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 2441,
-            "denominacion": "RED TOURO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "ESPINA & DELFÍN, S. L.",
-            "Localidad": "MOURELOS HERMO",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 2441,
-            "denominacion": "RED TOURO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "ESPINA & DELFÍN, S. L.",
-            "Localidad": "MOURELOS POBLADO",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 2441,
-            "denominacion": "RED TOURO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "AYTO. DE TEO_15082_A CORUÑA",
             "Localidad": "CHAODORRIO",
             "Calidad del agua": "Agua apta para el consumo",
@@ -5120,6 +4940,60 @@
             "Comentario": "-",
             "idRed": 2429,
             "denominacion": "RED TEO"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "ESPINA & DELFÍN, S. L.",
+            "Localidad": "BENTÍN",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 2441,
+            "denominacion": "RED TOURO"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "ESPINA & DELFÍN, S. L.",
+            "Localidad": "MOURELOS HERMO",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 2441,
+            "denominacion": "RED TOURO"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "ESPINA & DELFÍN, S. L.",
+            "Localidad": "MOURELOS POBLADO",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 2441,
+            "denominacion": "RED TOURO"
         },
         "geometry": {
             "type": "Point",
@@ -5349,6 +5223,24 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GESTION DE AGUAS DEL LEVANTE ALMERIENSE S.A. (GALASA)",
+            "Localidad": "CORTIJO EL VIENTO (EL)",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 2573,
+            "denominacion": "GALASA-ZA LEVANTE ALMERIENSE-RED DE EL CUMBRERO"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GESTION DE AGUAS DEL LEVANTE ALMERIENSE S.A. (GALASA)",
             "Localidad": "04053070299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -5372,24 +5264,6 @@
             "Comentario": "-",
             "idRed": 2617,
             "denominacion": "CODEUR-VERA-RED VERA PUEBLO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AGUAS DE GARRUCHA",
-            "Localidad": "04049000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 2618,
-            "denominacion": "GALASA-ZA LEVANTE ALMERIENSE-RED DE GARRUCHA"
         },
         "geometry": {
             "type": "Point",
@@ -5493,6 +5367,42 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AGUAS DEL PUERTO EMPRESA MUNICIPAL, S.A.",
+            "Localidad": "POLÍGONO INDUSTRIAL SALINAS DE SAN JOSÉ",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 2778,
+            "denominacion": "APEMSA-EL PUERTO DE SANTA MARIA-RED CASCO URBANO"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AGUAS DEL PUERTO EMPRESA MUNICIPAL, S.A.",
+            "Localidad": "11027002899*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 2778,
+            "denominacion": "APEMSA-EL PUERTO DE SANTA MARIA-RED CASCO URBANO"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AGUAS DEL PUERTO EMPRESA MUNICIPAL, S.A.",
             "Localidad": "11027002499*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -5546,42 +5456,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AGUAS DEL PUERTO EMPRESA MUNICIPAL, S.A.",
-            "Localidad": "POLÍGONO INDUSTRIAL SALINAS DE SAN JOSÉ",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 2778,
-            "denominacion": "APEMSA-EL PUERTO DE SANTA MARIA-RED CASCO URBANO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AGUAS DEL PUERTO EMPRESA MUNICIPAL, S.A.",
-            "Localidad": "11027002899*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 2778,
-            "denominacion": "APEMSA-EL PUERTO DE SANTA MARIA-RED CASCO URBANO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "AIGÜES I SANEJAMENT D'ELX, S.A.",
             "Localidad": "03065001399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -5606,24 +5480,6 @@
             "Comentario": "-",
             "idRed": 2880,
             "denominacion": "RED DE DISTRIBUCIÓN PONTECESURES"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "GLOBAL OMNIUM",
-            "Localidad": "44172000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 2873,
-            "denominacion": "COM EMBALSE CUEVA FORADADA RED OLIETE"
         },
         "geometry": {
             "type": "Point",
@@ -5690,6 +5546,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "16203000199*DISEMINADO*",
+            "Calidad del agua": "Agua no apta para el consumo",
+            "Comentario": "-",
+            "idRed": 3004,
+            "denominacion": "RED POLÍGONO-TARANCÓN-CU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "AGUAS DE ALCALÁ LA REAL, E.M., S.A.",
             "Localidad": "PEÑAS DE MAJALCORÓN",
             "Calidad del agua": "Agua apta para el consumo",
@@ -5714,24 +5588,6 @@
             "Comentario": "-",
             "idRed": 3095,
             "denominacion": "ADALSA-ALCALA LA REAL-RED PILAS FUENTE SOTO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "23038000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 3077,
-            "denominacion": "ENTRECAMINOS/LA GUARDIA/ RED DE DISTRIBUCIÓN"
         },
         "geometry": {
             "type": "Point",
@@ -5894,42 +5750,6 @@
             "Comentario": "-",
             "idRed": 3383,
             "denominacion": "AQN-VALDES-CONSTANCIOS-RED DE DISTRIBUCION DE CONSTANCIOS"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "VAL.LINES",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 3366,
-            "denominacion": "AQN-LENA-VILLALLANA Y OTRAS-RED DE DISTRIBUCION DE VILLALLANA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "VIL.LAYANA",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 3366,
-            "denominacion": "AQN-LENA-VILLALLANA Y OTRAS-RED DE DISTRIBUCION DE VILLALLANA"
         },
         "geometry": {
             "type": "Point",
@@ -6158,24 +5978,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "38011000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 3453,
-            "denominacion": "AQC-CANDELARIA-RED ARAYA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "AGUAS DE LORCA, S.A.",
             "Localidad": "ERMITA DE SANTA GERTRUDIS",
             "Calidad del agua": "Agua apta para el consumo",
@@ -6249,6 +6051,24 @@
         "type": "Feature",
         "properties": {
             "Gestor": "FCC AQUALIA",
+            "Localidad": "38011000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 3453,
+            "denominacion": "AQC-CANDELARIA-RED ARAYA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "FCC AQUALIA",
             "Localidad": "38011000599*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -6267,11 +6087,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "FCC AQUALIA",
-            "Localidad": "38011000299*DISEMINADO*",
+            "Localidad": "38011000699*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 3457,
-            "denominacion": "AQC-CANDELARIA-RED BARRANCO HONDO ALTO"
+            "idRed": 3454,
+            "denominacion": "AQC-CANDELARIA-RED IGUESTE"
         },
         "geometry": {
             "type": "Point",
@@ -6285,11 +6105,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "FCC AQUALIA",
-            "Localidad": "38011000699*DISEMINADO*",
+            "Localidad": "38011000299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 3454,
-            "denominacion": "AQC-CANDELARIA-RED IGUESTE"
+            "idRed": 3457,
+            "denominacion": "AQC-CANDELARIA-RED BARRANCO HONDO ALTO"
         },
         "geometry": {
             "type": "Point",
@@ -6357,24 +6177,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "FCC AQUALIA",
-            "Localidad": "38020001099*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 3488,
-            "denominacion": "AQC-GÜÍMAR-RED PUERTITO LA CALETA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
             "Localidad": "38020001499*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -6398,6 +6200,24 @@
             "Comentario": "-",
             "idRed": 3492,
             "denominacion": "AQC-GÜÍMAR-RED TABLADO PUENTE CHIMAJE BARRANCOS"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "38020001099*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 3488,
+            "denominacion": "AQC-GÜÍMAR-RED PUERTITO LA CALETA"
         },
         "geometry": {
             "type": "Point",
@@ -6542,24 +6362,6 @@
             "Comentario": "-",
             "idRed": 3720,
             "denominacion": "AGUAS DEL TORCAL -RED DISTRIBUCIÓN CARTAOJAL"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AGUAS DE AVILÉS S.L",
-            "Localidad": "CRUZ DE LA FOLGUERA (LA)",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 3689,
-            "denominacion": "RED-VILLA/FERVENCIA-AVILÉS"
         },
         "geometry": {
             "type": "Point",
@@ -6734,6 +6536,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "FACSA",
+            "Localidad": "U.R.M.I.",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 4065,
+            "denominacion": "RED - PEÑISCOLA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "HIDRAQUA",
             "Localidad": "URBANIZACIÓN CRUZ DEL MAIGMÓ",
             "Calidad del agua": "Agua apta para el consumo",
@@ -6758,24 +6578,6 @@
             "Comentario": "-",
             "idRed": 4067,
             "denominacion": "RED TIBI 2- FINCA TEROL Y OTRAS ES"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FACSA",
-            "Localidad": "U.R.M.I.",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 4065,
-            "denominacion": "RED - PEÑISCOLA"
         },
         "geometry": {
             "type": "Point",
@@ -6864,6 +6666,24 @@
             "Localidad": "20015000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
+            "idRed": 4484,
+            "denominacion": "IBERONDOA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "EKUIS: SISTEMA DE INFORMACIÓN DE AGUAS DE CONSUMO DE LA CAPV",
+            "Localidad": "20015000399*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
             "idRed": 4483,
             "denominacion": "ERGOIENA"
         },
@@ -6882,8 +6702,8 @@
             "Localidad": "20015000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 4484,
-            "denominacion": "IBERONDOA"
+            "idRed": 4481,
+            "denominacion": "AGERRE"
         },
         "geometry": {
             "type": "Point",
@@ -6920,24 +6740,6 @@
             "Comentario": "-",
             "idRed": 4486,
             "denominacion": "SAN GREGORIO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "EKUIS: SISTEMA DE INFORMACIÓN DE AGUAS DE CONSUMO DE LA CAPV",
-            "Localidad": "20015000399*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 4481,
-            "denominacion": "AGERRE"
         },
         "geometry": {
             "type": "Point",
@@ -7040,12 +6842,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AGUAS SON TOVELL, S.A.",
-            "Localidad": "ESTANY DEN MAS (S')",
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "PEL.LUNO",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 4704,
-            "denominacion": "RED PLAYA ROMANTICA-PORTO CRISTO NOVO"
+            "idRed": 4699,
+            "denominacion": "AQN-ALLER-PELUGANO-RED PELUGANO DE ABAJO"
         },
         "geometry": {
             "type": "Point",
@@ -7058,12 +6860,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "PEL.LUNO",
+            "Gestor": "AGUAS SON TOVELL, S.A.",
+            "Localidad": "ESTANY DEN MAS (S')",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 4699,
-            "denominacion": "AQN-ALLER-PELUGANO-RED PELUGANO DE ABAJO"
+            "idRed": 4704,
+            "denominacion": "RED PLAYA ROMANTICA-PORTO CRISTO NOVO"
         },
         "geometry": {
             "type": "Point",
@@ -7292,12 +7094,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AIGÜES DE BANYOLES, S.A.",
-            "Localidad": "17035000199*DISEMINADO*",
+            "Gestor": "COMUNITAT MINA I AIGÜES DE LA SALUT, SA",
+            "Localidad": "CAN CATASÚS",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 5196,
-            "denominacion": "XARXA CAMOS"
+            "idRed": 5202,
+            "denominacion": "COMUNITAT MINA I AIGÜES DE LA SALUT. CAN CATASSUS.(POUS)"
         },
         "geometry": {
             "type": "Point",
@@ -7310,12 +7112,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "COMUNITAT MINA I AIGÜES DE LA SALUT, SA",
-            "Localidad": "CAN CATASÚS",
+            "Gestor": "AIGÜES DE BANYOLES, S.A.",
+            "Localidad": "17035000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 5202,
-            "denominacion": "COMUNITAT MINA I AIGÜES DE LA SALUT. CAN CATASSUS.(POUS)"
+            "idRed": 5196,
+            "denominacion": "XARXA CAMOS"
         },
         "geometry": {
             "type": "Point",
@@ -7383,24 +7185,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AGUA Y RESIDUOS DEL CAMPO DE GIBRALTAR, S.A. (ARCGISA)",
-            "Localidad": "11013000399*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 5232,
-            "denominacion": "ACGISA-CASTILLO CASTELLAR-RED DISTRIBUCION"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AGUA Y RESIDUOS DEL CAMPO DE GIBRALTAR, S.A. (ARCGISA)",
             "Localidad": "11033000499*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -7419,11 +7203,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AGUA Y RESIDUOS DEL CAMPO DE GIBRALTAR, S.A. (ARCGISA)",
-            "Localidad": "11033000699*DISEMINADO*",
+            "Localidad": "11033000599*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 5237,
-            "denominacion": "ACGISA-S.ENRIQUE.TORREG.-RED DISTRIBUCION"
+            "idRed": 5226,
+            "denominacion": "ACGISA-CAMP.PTE.GUADRR.-RED DISTRIBUCION"
         },
         "geometry": {
             "type": "Point",
@@ -7437,11 +7221,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AGUA Y RESIDUOS DEL CAMPO DE GIBRALTAR, S.A. (ARCGISA)",
-            "Localidad": "11033000599*DISEMINADO*",
+            "Localidad": "11033000699*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 5226,
-            "denominacion": "ACGISA-CAMP.PTE.GUADRR.-RED DISTRIBUCION"
+            "idRed": 5237,
+            "denominacion": "ACGISA-S.ENRIQUE.TORREG.-RED DISTRIBUCION"
         },
         "geometry": {
             "type": "Point",
@@ -7478,6 +7262,24 @@
             "Comentario": "-",
             "idRed": 5233,
             "denominacion": "ACGISA-CASTELLAR DE LA FRA.-RED DISTRIBUCION"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AGUA Y RESIDUOS DEL CAMPO DE GIBRALTAR, S.A. (ARCGISA)",
+            "Localidad": "11033000399*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 5227,
+            "denominacion": "ACGISA-ESTACION.TARAGUILLA-RED DISTRIBUCION"
         },
         "geometry": {
             "type": "Point",
@@ -8030,24 +7832,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AGUAS DE JUMILLA, S.A.",
-            "Localidad": "30022001299*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 5568,
-            "denominacion": "RED TORRE DEL RICO (JUMILLA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "AIGÜES I SANEJAMENT DE SUECA",
             "Localidad": "46235000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -8090,6 +7874,24 @@
             "Comentario": "-",
             "idRed": 5561,
             "denominacion": "RED SUECA 3 M BARRAQUETES"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AGUAS DE JUMILLA, S.A.",
+            "Localidad": "30022001299*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 5568,
+            "denominacion": "RED TORRE DEL RICO (JUMILLA)"
         },
         "geometry": {
             "type": "Point",
@@ -8157,11 +7959,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AGUAS DE LORCA, S.A.",
-            "Localidad": "30024000599*DISEMINADO*",
+            "Localidad": "TIEMBLOS (LOS) Y LAS CAÑADAS",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 5594,
-            "denominacion": "RED DOÑA INES (LORCA)"
+            "idRed": 5595,
+            "denominacion": "RED TORREALVILLA (LORCA)"
         },
         "geometry": {
             "type": "Point",
@@ -8175,11 +7977,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AGUAS DE LORCA, S.A.",
-            "Localidad": "TIEMBLOS (LOS) Y LAS CAÑADAS",
+            "Localidad": "30024000599*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 5595,
-            "denominacion": "RED TORREALVILLA (LORCA)"
+            "idRed": 5594,
+            "denominacion": "RED DOÑA INES (LORCA)"
         },
         "geometry": {
             "type": "Point",
@@ -8216,6 +8018,24 @@
             "Comentario": "-",
             "idRed": 5602,
             "denominacion": "AQS-LA YUCA-ALTOS DEL PUENTE NUEVO (LA GUARDIA)-RED DIST. ALTOS DEL PUENTE NUEVO"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "23038000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 5601,
+            "denominacion": "AQS-LA YUCA-ALTOS DEL PUENTE NUEVO (LA GUARDIA)-RED DIST. LA YUCA"
         },
         "geometry": {
             "type": "Point",
@@ -8354,12 +8174,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "35023000199*DISEMINADO*",
+            "Gestor": "GRUP CASSA",
+            "Localidad": "08266000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 5675,
-            "denominacion": "AQC-GUÍA-RED LOMO DEL PINO BARRANCO DEL PINAR"
+            "idRed": 5701,
+            "denominacion": "XARXA CASSA-CERDANYOLA DEL VALLES"
         },
         "geometry": {
             "type": "Point",
@@ -8372,12 +8192,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "GRUP CASSA",
-            "Localidad": "08266000399*DISEMINADO*",
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "35023000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 5701,
-            "denominacion": "XARXA CASSA-CERDANYOLA DEL VALLES"
+            "idRed": 5675,
+            "denominacion": "AQC-GUÍA-RED LOMO DEL PINO BARRANCO DEL PINAR"
         },
         "geometry": {
             "type": "Point",
@@ -8516,30 +8336,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE CARREÑO_33014_ASTURIAS",
-            "Localidad": "RIONCÉU (EL)",
+            "Gestor": "AGUAS DE LORCA, S.A.",
+            "Localidad": "30024260199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 5753,
-            "denominacion": "CARREÑO PARTE II (LOGREZANA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE CARREÑO_33014_ASTURIAS",
-            "Localidad": "VERA'L RÍU (LA)",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 5753,
-            "denominacion": "CARREÑO PARTE II (LOGREZANA)"
+            "idRed": 5775,
+            "denominacion": "RED CALNEGRE (LORCA)"
         },
         "geometry": {
             "type": "Point",
@@ -8558,24 +8360,6 @@
             "Comentario": "-",
             "idRed": 5776,
             "denominacion": "RED TIRIEZA (LORCA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AGUAS DE LORCA, S.A.",
-            "Localidad": "30024260199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 5775,
-            "denominacion": "RED CALNEGRE (LORCA)"
         },
         "geometry": {
             "type": "Point",
@@ -8751,11 +8535,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "HIDROGEA",
-            "Localidad": "30037000399*DISEMINADO*",
+            "Localidad": "30037001299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 5881,
-            "denominacion": "LOS CAMACHOS (TORREPACHECO)"
+            "idRed": 5883,
+            "denominacion": "SANTA ROSALIA (TORREPACHECO)"
         },
         "geometry": {
             "type": "Point",
@@ -8792,6 +8576,24 @@
             "Comentario": "-",
             "idRed": 5879,
             "denominacion": "HORTICHUELA(TORREPACHECO)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "HIDROGEA",
+            "Localidad": "30037000399*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 5881,
+            "denominacion": "LOS CAMACHOS (TORREPACHECO)"
         },
         "geometry": {
             "type": "Point",
@@ -8858,6 +8660,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "AYTO. DE MIERES_33037_ASTURIAS",
+            "Localidad": "GAL.LEGOS",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 5895,
+            "denominacion": "GALLEGOS (MIERES)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "HIDROGEA",
             "Localidad": "30037000799*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -8882,42 +8702,6 @@
             "Comentario": "-",
             "idRed": 5887,
             "denominacion": "TORREPACHECO-TORREPACHECO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE MIERES_33037_ASTURIAS",
-            "Localidad": "GAL.LEGOS",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 5895,
-            "denominacion": "GALLEGOS (MIERES)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE A GUARDA_36023_PONTEVEDRA",
-            "Localidad": "CORUTO VIEJO",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 5888,
-            "denominacion": "RED DE DISTRIBUCIÓN GUARDA A-ZA GUARDA A"
         },
         "geometry": {
             "type": "Point",
@@ -8966,12 +8750,66 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "30002000699*DISEMINADO*",
+            "Gestor": "AYTO. DE MIERES_33037_ASTURIAS",
+            "Localidad": "FOL.LERÓN (EL)",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 5945,
-            "denominacion": "AQC-RED HOYA DEL CAMPO-ABARÁN"
+            "idRed": 5891,
+            "denominacion": "MANANTIAL RONDEROS-RIO ALLER (MIERES)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE MIERES_33037_ASTURIAS",
+            "Localidad": "RIBAYA (LA)/SAN FRANCISCO",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 5891,
+            "denominacion": "MANANTIAL RONDEROS-RIO ALLER (MIERES)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE MIERES_33037_ASTURIAS",
+            "Localidad": "VIL.LABAZAL",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 5891,
+            "denominacion": "MANANTIAL RONDEROS-RIO ALLER (MIERES)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE MIERES_33037_ASTURIAS",
+            "Localidad": "VIL.LAMARTÍN",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 5891,
+            "denominacion": "MANANTIAL RONDEROS-RIO ALLER (MIERES)"
         },
         "geometry": {
             "type": "Point",
@@ -8990,6 +8828,24 @@
             "Comentario": "-",
             "idRed": 5968,
             "denominacion": "EMALSA LAS PALMAS DE GRAN CANARIA RED TENOYA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "30002000699*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 5945,
+            "denominacion": "AQC-RED HOYA DEL CAMPO-ABARÁN"
         },
         "geometry": {
             "type": "Point",
@@ -9344,78 +9200,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE MIERES_33037_ASTURIAS",
-            "Localidad": "FOL.LERÓN (EL)",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 5891,
-            "denominacion": "MANANTIAL RONDEROS-RIO ALLER (MIERES)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE MIERES_33037_ASTURIAS",
-            "Localidad": "RIBAYA (LA)/SAN FRANCISCO",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 5891,
-            "denominacion": "MANANTIAL RONDEROS-RIO ALLER (MIERES)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE MIERES_33037_ASTURIAS",
-            "Localidad": "VIL.LABAZAL",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 5891,
-            "denominacion": "MANANTIAL RONDEROS-RIO ALLER (MIERES)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE MIERES_33037_ASTURIAS",
-            "Localidad": "VIL.LAMARTÍN",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 5891,
-            "denominacion": "MANANTIAL RONDEROS-RIO ALLER (MIERES)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "GRUP CASSA",
             "Localidad": "AEROPORT DE LA SEU D'URGELL I ANDORRA (L')",
             "Calidad del agua": "Agua apta para el consumo",
@@ -9560,12 +9344,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AGUAS DE ARGUINEGUIN S.A.",
-            "Localidad": "ANFIDELMAR",
+            "Gestor": "AYTO. DE LA GUANCHA_38018_SANTA CRUZ DE TENERIFE",
+            "Localidad": "38018001099*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 6556,
-            "denominacion": "AGUAS DE ARGUINEGUIN MOGAN RED CORNISA DEL SUROESTE (CALAS)"
+            "idRed": 6560,
+            "denominacion": "AYTO LA GUANCHA RED LA CAÑADA"
         },
         "geometry": {
             "type": "Point",
@@ -9596,12 +9380,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE LA GUANCHA_38018_SANTA CRUZ DE TENERIFE",
-            "Localidad": "38018001099*DISEMINADO*",
+            "Gestor": "AGUAS DE ARGUINEGUIN S.A.",
+            "Localidad": "ANFIDELMAR",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 6560,
-            "denominacion": "AYTO LA GUANCHA RED LA CAÑADA"
+            "idRed": 6556,
+            "denominacion": "AGUAS DE ARGUINEGUIN MOGAN RED CORNISA DEL SUROESTE (CALAS)"
         },
         "geometry": {
             "type": "Point",
@@ -9638,42 +9422,6 @@
             "Comentario": "Por incumplimiento del fluoruro y de los criterios sanitarios del depósito, esta red de distribución tiene restricción de uso. El agua no podrá ser utilizada para beber ni preparar alimentos o en la industria alimentaria para la población en general.",
             "idRed": 6606,
             "denominacion": "ICODEMSA-ICOD DE LOS VINOS-RED REDONDO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "ICOD EMPRESA MUNICIPAL S.A. (ICODEMSA)",
-            "Localidad": "38022001299*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "Por incumplimiento del fluoruro, esta red de distribución tiene restricción de uso. El agua no podrá ser utilizada para beber ni preparar alimentos o en la industria alimentaria para la población en general.",
-            "idRed": 6610,
-            "denominacion": "ICODEMSA-ICOD DE LOS VINOS-RED LA VEGA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "ICOD EMPRESA MUNICIPAL S.A. (ICODEMSA)",
-            "Localidad": "38022001199*DISEMINADO*",
-            "Calidad del agua": "Agua no apta para el consumo",
-            "Comentario": "Por incumplimiento del fluoruro, esta red de distribución tiene restricción de uso. El agua no podrá ser utilizada para beber ni preparar alimentos o en la industria alimentaria para la población en general.",
-            "idRed": 6612,
-            "denominacion": "ICODEMSA-ICOD DE LOS VINOS-RED LLANITO PERERA"
         },
         "geometry": {
             "type": "Point",
@@ -9777,24 +9525,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AYTO. DE SAN JUAN DE LA RAMBLA_38034_SANTA CRUZ DE TENERIFE",
-            "Localidad": "38034001199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "Por incumplimiento del fluoruro, esta red de distribución tiene restricción de uso. El agua no podrá ser utilizada para beber ni preparar alimentos o en la industria alimentaria para niños de hasta 8 añis de edad.",
-            "idRed": 6803,
-            "denominacion": "AYTO SAN JUAN DE LA RAMBLA RED SAN JOSE-LOS QUEVEDOS"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE SAN JUAN DE LA RAMBLA_38034_SANTA CRUZ DE TENERIFE",
             "Localidad": "38034001099*DISEMINADO*",
             "Calidad del agua": "Agua no apta para el consumo",
             "Comentario": "Por incumplimiento del fluoruro, esta red de distribución tiene restricción de uso. El agua no podrá ser utilizada para beber ni preparar alimentos o en la industria alimentaria para niños de hasta 8 años de edad.",
@@ -9831,11 +9561,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AYTO. DE SAN JUAN DE LA RAMBLA_38034_SANTA CRUZ DE TENERIFE",
-            "Localidad": "38034000199*DISEMINADO*",
+            "Localidad": "38034001199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 6809,
-            "denominacion": "AYTO SAN JUAN DE LA RAMBLA RED LITORAL"
+            "Comentario": "Por incumplimiento del fluoruro, esta red de distribución tiene restricción de uso. El agua no podrá ser utilizada para beber ni preparar alimentos o en la industria alimentaria para niños de hasta 8 añis de edad.",
+            "idRed": 6803,
+            "denominacion": "AYTO SAN JUAN DE LA RAMBLA RED SAN JOSE-LOS QUEVEDOS"
         },
         "geometry": {
             "type": "Point",
@@ -9849,11 +9579,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AYTO. DE SAN JUAN DE LA RAMBLA_38034_SANTA CRUZ DE TENERIFE",
-            "Localidad": "38034001299*DISEMINADO*",
+            "Localidad": "38034000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "Por incumplimiento del fluoruro, esta red de distribución tiene restricción de uso. El agua no podrá ser utilizada para beber ni preparar alimentos o en la industria alimentaria para niños de hasta 8 años de edad.",
-            "idRed": 6811,
-            "denominacion": "AYTO SAN JUAN DE LA RAMBLA RED VISTA BELLA-PONCIO"
+            "Comentario": "-",
+            "idRed": 6809,
+            "denominacion": "AYTO SAN JUAN DE LA RAMBLA RED LITORAL"
         },
         "geometry": {
             "type": "Point",
@@ -9890,6 +9620,24 @@
             "Comentario": "Por incumplimiento del fluoruro, esta red de distribución tiene restricción de uso. El agua no podrá ser utilizada para beber ni preparar alimentos o en la industria alimentaria para niños de hasta 8 años de edad.",
             "idRed": 6808,
             "denominacion": "AYTO SAN JUAN DE LA RAMBLA RED EL ROSARIO"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE SAN JUAN DE LA RAMBLA_38034_SANTA CRUZ DE TENERIFE",
+            "Localidad": "38034001299*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "Por incumplimiento del fluoruro, esta red de distribución tiene restricción de uso. El agua no podrá ser utilizada para beber ni preparar alimentos o en la industria alimentaria para niños de hasta 8 años de edad.",
+            "idRed": 6811,
+            "denominacion": "AYTO SAN JUAN DE LA RAMBLA RED VISTA BELLA-PONCIO"
         },
         "geometry": {
             "type": "Point",
@@ -10082,6 +9830,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "EMPRESA PROVINCIAL DE AGUAS DE CÓRDOBA S.A.",
+            "Localidad": "14037000899*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 6961,
+            "denominacion": "AYTO.IZNAJAR-IZNAJAR-RED CORONA, ALGAIDA Y GATA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "SGAB, SOCIEDAD GENERAL DE AGUAS DE BARCELONA SAU",
             "Localidad": "BARAMAR",
             "Calidad del agua": "Agua apta para el consumo",
@@ -10106,24 +9872,6 @@
             "Comentario": "-",
             "idRed": 6956,
             "denominacion": "SOREA LITORAL CAT. RODA DE BARÀ"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "EMPRESA PROVINCIAL DE AGUAS DE CÓRDOBA S.A.",
-            "Localidad": "14037000899*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 6961,
-            "denominacion": "AYTO.IZNAJAR-IZNAJAR-RED CORONA, ALGAIDA Y GATA"
         },
         "geometry": {
             "type": "Point",
@@ -10299,24 +10047,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "PROVEÏMENTS D'AIGUA SA",
-            "Localidad": "17025000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 7089,
-            "denominacion": "XARXA BORDILS"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "PROVEÏMENTS D'AIGUA SA",
             "Localidad": "GRUP SOLIVENT",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -10371,11 +10101,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "PROVEÏMENTS D'AIGUA SA",
-            "Localidad": "17029000199*DISEMINADO*",
+            "Localidad": "17025000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 7092,
-            "denominacion": "XARXA BOADELLA D'EMPORDÀ"
+            "idRed": 7089,
+            "denominacion": "XARXA BORDILS"
         },
         "geometry": {
             "type": "Point",
@@ -10425,11 +10155,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "PROVEÏMENTS D'AIGUA SA",
-            "Localidad": "17029000299*DISEMINADO*",
+            "Localidad": "17029000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 7093,
-            "denominacion": "XARXA LES ESCAULES"
+            "idRed": 7092,
+            "denominacion": "XARXA BOADELLA D'EMPORDÀ"
         },
         "geometry": {
             "type": "Point",
@@ -10461,11 +10191,47 @@
         "type": "Feature",
         "properties": {
             "Gestor": "PROVEÏMENTS D'AIGUA SA",
+            "Localidad": "17029000299*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7093,
+            "denominacion": "XARXA LES ESCAULES"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "PROVEÏMENTS D'AIGUA SA",
             "Localidad": "17200000299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
             "idRed": 7104,
             "denominacion": "XARXA TORTELLÀ"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "PROVEÏMENTS D'AIGUA SA - GIRONA SA U.T.E",
+            "Localidad": "URBANITZACIÓ AIGÜES BONES",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7107,
+            "denominacion": "XARXA URBANITZACIÓ AIGÜES BONES"
         },
         "geometry": {
             "type": "Point",
@@ -10502,24 +10268,6 @@
             "Comentario": "-",
             "idRed": 7087,
             "denominacion": "XARXA FORNELLS DE LA SELVA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "PROVEÏMENTS D'AIGUA SA - GIRONA SA U.T.E",
-            "Localidad": "URBANITZACIÓ AIGÜES BONES",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 7107,
-            "denominacion": "XARXA URBANITZACIÓ AIGÜES BONES"
         },
         "geometry": {
             "type": "Point",
@@ -10713,24 +10461,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "PROVEÏMENTS D'AIGUA SA",
-            "Localidad": "VEÏNAT DE MELIANTA",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 7130,
-            "denominacion": "XARXA URBANITZACIÓ MALIANTA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "PROVEÏMENTS D'AIGUA SA",
             "Localidad": "VEÏNAT DE CAN BOSC",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -10821,29 +10551,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "PROVEÏMENTS D'AIGUA SA",
-            "Localidad": "17028000199*DISEMINADO*",
+            "Localidad": "VEÏNAT DE MELIANTA",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 7126,
-            "denominacion": "XARXA SANT MARTÍ SAPRESA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "PROVEÏMENTS D'AIGUA SA",
-            "Localidad": "17028000299*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 7126,
-            "denominacion": "XARXA SANT MARTÍ SAPRESA"
+            "idRed": 7130,
+            "denominacion": "XARXA URBANITZACIÓ MALIANTA"
         },
         "geometry": {
             "type": "Point",
@@ -10934,6 +10646,42 @@
             "Comentario": "-",
             "idRed": 7110,
             "denominacion": "XARXA RIUDELLOTS DE LA SELVA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "PROVEÏMENTS D'AIGUA SA",
+            "Localidad": "17028000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7126,
+            "denominacion": "XARXA SANT MARTÍ SAPRESA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "PROVEÏMENTS D'AIGUA SA",
+            "Localidad": "17028000299*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7126,
+            "denominacion": "XARXA SANT MARTÍ SAPRESA"
         },
         "geometry": {
             "type": "Point",
@@ -11294,6 +11042,78 @@
             "Comentario": "-",
             "idRed": 7133,
             "denominacion": "XARXA SANT PRIVAT D'EN BAS NUCLI ANTIC"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "PROVEÏMENTS D'AIGUA SA",
+            "Localidad": "17207020299*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7132,
+            "denominacion": "XARXA SANT ESTEVE D'EN BAS"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "PROVEÏMENTS D'AIGUA SA",
+            "Localidad": "17207030199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7132,
+            "denominacion": "XARXA SANT ESTEVE D'EN BAS"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "PROVEÏMENTS D'AIGUA SA",
+            "Localidad": "17207040199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7132,
+            "denominacion": "XARXA SANT ESTEVE D'EN BAS"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "PROVEÏMENTS D'AIGUA SA",
+            "Localidad": "17207040399*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7132,
+            "denominacion": "XARXA SANT ESTEVE D'EN BAS"
         },
         "geometry": {
             "type": "Point",
@@ -11774,12 +11594,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "CANARAGUA CONCESIONES, S.A.",
-            "Localidad": "38008000399*DISEMINADO*",
+            "Gestor": "AYTO. DE VILAR DE BARRIO_32089_OURENSE",
+            "Localidad": "PENADIZ OU FOLÓN (O)",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 7454,
-            "denominacion": "AC BREÑA ALTA RED UNIÓN DE CANALES DEP BOTAZO"
+            "idRed": 7447,
+            "denominacion": "RED ABASTECIMIENTO ZA ARNUIDE - VILAR DE BARRIO"
         },
         "geometry": {
             "type": "Point",
@@ -11792,12 +11612,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE VILAR DE BARRIO_32089_OURENSE",
-            "Localidad": "PENADIZ OU FOLÓN (O)",
+            "Gestor": "CANARAGUA CONCESIONES, S.A.",
+            "Localidad": "38008000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 7447,
-            "denominacion": "RED ABASTECIMIENTO ZA ARNUIDE - VILAR DE BARRIO"
+            "idRed": 7454,
+            "denominacion": "AC BREÑA ALTA RED UNIÓN DE CANALES DEP BOTAZO"
         },
         "geometry": {
             "type": "Point",
@@ -11954,6 +11774,78 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "COMPANYIA GENERAL D'AIGÜES DE CATALUNYA, SA",
+            "Localidad": "URBANITZACIÓ CAN BLANC",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7561,
+            "denominacion": "XARXA CAN BLANC"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "COMPANYIA GENERAL D'AIGÜES DE CATALUNYA, SA",
+            "Localidad": "URBANITZACIÓ CAN JOFRE",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7561,
+            "denominacion": "XARXA CAN BLANC"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "COMPANYIA GENERAL D'AIGÜES DE CATALUNYA, SA",
+            "Localidad": "URBANITZACIÓ CAN POTXA",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7561,
+            "denominacion": "XARXA CAN BLANC"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GLOBAL OMNIUM",
+            "Localidad": "46134000299*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 7570,
+            "denominacion": "RED DE DISTRIBUCIÓN GILET-3- URBANIZACIÓN SANTO ESPÍRITU Y OTRAS ENTIDADES"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "AYTO. DE A TEIXEIRA_32080_OURENSE",
             "Localidad": "SIXTÍN",
             "Calidad del agua": "Agua apta para el consumo",
@@ -11972,12 +11864,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE GARAFÍA_38016_SANTA CRUZ DE TENERIFE",
-            "Localidad": "38016000399*DISEMINADO*",
+            "Gestor": "ESPINA & DELFÍN, S. L.",
+            "Localidad": "PAIOCORDEIRO",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 7634,
-            "denominacion": "AYTO GARAFIA - RED. FRANCESES"
+            "idRed": 7624,
+            "denominacion": "ALLARIZ - NANÍN RED"
         },
         "geometry": {
             "type": "Point",
@@ -11990,12 +11882,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "ESPINA & DELFÍN, S. L.",
-            "Localidad": "PAIOCORDEIRO",
+            "Gestor": "AYTO. DE GARAFÍA_38016_SANTA CRUZ DE TENERIFE",
+            "Localidad": "38016000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 7624,
-            "denominacion": "ALLARIZ - NANÍN RED"
+            "idRed": 7634,
+            "denominacion": "AYTO GARAFIA - RED. FRANCESES"
         },
         "geometry": {
             "type": "Point",
@@ -12765,24 +12657,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "EMUASA",
-            "Localidad": "30030000499*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 8585,
-            "denominacion": "EMUASA RED LA MURTA (MURCIA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "EMUASA",
             "Localidad": "30030200299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -12837,47 +12711,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "EMUASA",
-            "Localidad": "30030120299*DISEMINADO*",
+            "Localidad": "30030000499*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 8591,
-            "denominacion": "EMUASA RED CAÑADA S. PEDRO (MURCIA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "EMUASA",
-            "Localidad": "30030120199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 8592,
-            "denominacion": "EMUASA RED CABEZO DE LA PLATA (MURCIA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "EMUASA",
-            "Localidad": "30030160299*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 8588,
-            "denominacion": "EMUASA RED CORVERA (MURCIA)"
+            "idRed": 8585,
+            "denominacion": "EMUASA RED LA MURTA (MURCIA)"
         },
         "geometry": {
             "type": "Point",
@@ -12914,6 +12752,60 @@
             "Comentario": "-",
             "idRed": 8578,
             "denominacion": "EMUASA RED TORREAGÜERA (MURCIA)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "EMUASA",
+            "Localidad": "30030120299*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 8591,
+            "denominacion": "EMUASA RED CAÑADA S. PEDRO (MURCIA)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "EMUASA",
+            "Localidad": "30030160299*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 8588,
+            "denominacion": "EMUASA RED CORVERA (MURCIA)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "EMUASA",
+            "Localidad": "30030120199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 8592,
+            "denominacion": "EMUASA RED CABEZO DE LA PLATA (MURCIA)"
         },
         "geometry": {
             "type": "Point",
@@ -14114,42 +14006,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "VEÏNAT DE LLOBATERA",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 8939,
-            "denominacion": "ZS LLAGOSTERA XARXA DISTRIBUCIÓ"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "VEÏNAT DE SANT LLORENÇ",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 8939,
-            "denominacion": "ZS LLAGOSTERA XARXA DISTRIBUCIÓ"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "AYTO. DE ALPUENTE_46036_VALÈNCIA/VALENCIA",
             "Localidad": "OBISPO HERNÁNDEZ O ERAS",
             "Calidad del agua": "Agua apta para el consumo",
@@ -14295,11 +14151,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CETURSA SIERRA NEVADA, S. A.",
-            "Localidad": "18134000399*DISEMINADO*",
+            "Localidad": "18068000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 9358,
-            "denominacion": "CETURSA - MONACHIL - RED DE BORREGUILES"
+            "idRed": 9359,
+            "denominacion": "CETURSA - MONACHIL - RED LA LAGUNA"
         },
         "geometry": {
             "type": "Point",
@@ -14313,11 +14169,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CETURSA SIERRA NEVADA, S. A.",
-            "Localidad": "18068000199*DISEMINADO*",
+            "Localidad": "18134000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 9359,
-            "denominacion": "CETURSA - MONACHIL - RED LA LAGUNA"
+            "idRed": 9358,
+            "denominacion": "CETURSA - MONACHIL - RED DE BORREGUILES"
         },
         "geometry": {
             "type": "Point",
@@ -14582,24 +14438,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "CONSORCIO DE ABASTECIMIENTO DE AGUAS A FUERTEVENTURA",
-            "Localidad": "35030000599*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 9570,
-            "denominacion": "CAAF TUINEJE RED LAS PLAYITAS"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "PROVEÏMENTS D'AIGUA SA",
             "Localidad": "17228000699*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -14624,6 +14462,24 @@
             "Comentario": "-",
             "idRed": 9567,
             "denominacion": "XARXA VILANANT"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "CONSORCIO DE ABASTECIMIENTO DE AGUAS A FUERTEVENTURA",
+            "Localidad": "35030000599*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 9570,
+            "denominacion": "CAAF TUINEJE RED LAS PLAYITAS"
         },
         "geometry": {
             "type": "Point",
@@ -14781,11 +14637,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "PROVEÏMENTS D'AIGUA SA",
-            "Localidad": "17168000199*DISEMINADO*",
+            "Localidad": "RIBERA DE LES PLANES",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 9632,
-            "denominacion": "XARXA SANT JOAN DE MOLLET"
+            "idRed": 9625,
+            "denominacion": "XARXA CISTELLA"
         },
         "geometry": {
             "type": "Point",
@@ -14799,11 +14655,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "PROVEÏMENTS D'AIGUA SA",
-            "Localidad": "RIBERA DE LES PLANES",
+            "Localidad": "17168000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 9625,
-            "denominacion": "XARXA CISTELLA"
+            "idRed": 9632,
+            "denominacion": "XARXA SANT JOAN DE MOLLET"
         },
         "geometry": {
             "type": "Point",
@@ -15014,12 +14870,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE CABEZÓN DE PISUERGA_47027_VALLADOLID",
-            "Localidad": "CABEZÓN.BARRIO VIEJO",
+            "Gestor": "CONSORCIO DE ABASTECIMIENTO DE AGUAS A FUERTEVENTURA",
+            "Localidad": "35015000599*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 9945,
-            "denominacion": "RED-CABEZÓN DE PISUERGA"
+            "idRed": 9939,
+            "denominacion": "CAAF PAJARA RED PAJARA"
         },
         "geometry": {
             "type": "Point",
@@ -15050,12 +14906,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "CONSORCIO DE ABASTECIMIENTO DE AGUAS A FUERTEVENTURA",
-            "Localidad": "35015000599*DISEMINADO*",
+            "Gestor": "AYTO. DE CABEZÓN DE PISUERGA_47027_VALLADOLID",
+            "Localidad": "CABEZÓN.BARRIO VIEJO",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 9939,
-            "denominacion": "CAAF PAJARA RED PAJARA"
+            "idRed": 9945,
+            "denominacion": "RED-CABEZÓN DE PISUERGA"
         },
         "geometry": {
             "type": "Point",
@@ -15194,24 +15050,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "GLOBAL OMNIUM",
-            "Localidad": "44216000399*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 10240,
-            "denominacion": "SAS TERUEL RED ZONA TERUEL CASTRALVO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "VIAQUA S.A",
             "Localidad": "SANTABAIA",
             "Calidad del agua": "Agua apta para el consumo",
@@ -15272,60 +15110,6 @@
             "Comentario": "-",
             "idRed": 10391,
             "denominacion": "AQN-CASTRILLON-PIEDRAS BLANCAS(CADASA)-RED SAN MIGUEL DE QUILOÑO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "BELLAY",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 10395,
-            "denominacion": "AQN-CASTRILLON-SANTIAGO DEL MONTE-RED SANTIAGO DEL MONTE"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "CUEPLO (EL)",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 10395,
-            "denominacion": "AQN-CASTRILLON-SANTIAGO DEL MONTE-RED SANTIAGO DEL MONTE"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "XIRÁN (LA)",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 10395,
-            "denominacion": "AQN-CASTRILLON-SANTIAGO DEL MONTE-RED SANTIAGO DEL MONTE"
         },
         "geometry": {
             "type": "Point",
@@ -15536,6 +15320,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "GESTION DE AGUAS DEL LEVANTE ALMERIENSE S.A. (GALASA)",
+            "Localidad": "04048000199*DISEMINADO*",
+            "Calidad del agua": "Agua no apta para el consumo",
+            "Comentario": "-",
+            "idRed": 11658,
+            "denominacion": "GALASA - ZA ALFAIX (LOS GALLARDOS) - RED DE ALFAIX"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "AYTO. DE SOTRESGUDO_9373_BURGOS",
             "Localidad": "QUINTANILLA DE RIOFRESNO",
             "Calidad del agua": "Agua apta para el consumo",
@@ -15590,6 +15392,42 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "EMASER",
+            "Localidad": "PUEBLONUEVO DEL BULLAQUE",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 11987,
+            "denominacion": "RED DISTRIBUCIÓN PUEBLO NUEVO-CR"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "PROVEÏMENTS D'AIGUA SA",
+            "Localidad": "17225000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 12217,
+            "denominacion": "XARXA VILAMACOLUM"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "PROVEÏMENTS D'AIGUA SA",
             "Localidad": "17119000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -15614,24 +15452,6 @@
             "Comentario": "-",
             "idRed": 12218,
             "denominacion": "XARXA PALAU DE SANTA EULÀLIA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "PROVEÏMENTS D'AIGUA SA",
-            "Localidad": "17225000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 12217,
-            "denominacion": "XARXA VILAMACOLUM"
         },
         "geometry": {
             "type": "Point",
@@ -15879,6 +15699,24 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CANAL GESTIÓN LANZAROTE",
+            "Localidad": "35024000299*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 12628,
+            "denominacion": "CANAL GESTION LANZAROTE-TEGUISE-RED LA CALETA DE FAMARA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "CANAL GESTIÓN LANZAROTE",
             "Localidad": "35024002599*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -15933,24 +15771,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "COOPERATIVA VALENCIANA EL PLANTÍO Y LA CAÑADA",
-            "Localidad": "URBANIZACIÓN CUMBRES DE SAN ANTONIO",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 12747,
-            "denominacion": "RED DE SAN ANTONIO DE BENAGEBER 2 - COLINAS DE SAN ANTONIO Y OTRAS"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "COOPERATIVA VALENCIANA EL PLANTÍO Y LA CAÑADA",
             "Localidad": "URBANIZACIÓN CUMBRES SAN ANTONIO",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -15974,6 +15794,42 @@
             "Comentario": "-",
             "idRed": 12746,
             "denominacion": "RED DE BETERA 6 - TORRE EN CONILL, MONTESANO Y CUMBRES"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE ITUERO Y LAMA_40104_SEGOVIA",
+            "Localidad": "CAMPING LA CERCA NUEVA",
+            "Calidad del agua": "Agua no apta para el consumo",
+            "Comentario": "-",
+            "idRed": 12734,
+            "denominacion": "RED-CERCA NUEVA FASE II-III Y MONTE-ITUERO Y LAMA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "COOPERATIVA VALENCIANA EL PLANTÍO Y LA CAÑADA",
+            "Localidad": "URBANIZACIÓN CUMBRES DE SAN ANTONIO",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 12747,
+            "denominacion": "RED DE SAN ANTONIO DE BENAGEBER 2 - COLINAS DE SAN ANTONIO Y OTRAS"
         },
         "geometry": {
             "type": "Point",
@@ -16257,11 +16113,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GLOBAL OMNIUM",
-            "Localidad": "46158000199*DISEMINADO*",
+            "Localidad": "URBANIZACIÓN LLANOREL",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14110,
-            "denominacion": "RED DE DISTRIBUCIÓN DE MACASTRE-2-URB. CAÑADA DEL PINAR"
+            "idRed": 14109,
+            "denominacion": "RED DE DISTRIBUCIÓN DE MACASTRE-3-URB.LLANOREL"
         },
         "geometry": {
             "type": "Point",
@@ -16275,11 +16131,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GLOBAL OMNIUM",
-            "Localidad": "URBANIZACIÓN LLANOREL",
+            "Localidad": "46158000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14109,
-            "denominacion": "RED DE DISTRIBUCIÓN DE MACASTRE-3-URB.LLANOREL"
+            "idRed": 14110,
+            "denominacion": "RED DE DISTRIBUCIÓN DE MACASTRE-2-URB. CAÑADA DEL PINAR"
         },
         "geometry": {
             "type": "Point",
@@ -16347,11 +16203,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CONSORCIO DE ABASTECIMIENTO DE AGUAS A FUERTEVENTURA",
-            "Localidad": "35014000199*DISEMINADO*",
+            "Localidad": "35014000799*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14225,
-            "denominacion": "CAAF LA OLIVA RED LA CALDERETA"
+            "idRed": 14224,
+            "denominacion": "CAAF LA OLIVA RED TINDAYA"
         },
         "geometry": {
             "type": "Point",
@@ -16365,11 +16221,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CONSORCIO DE ABASTECIMIENTO DE AGUAS A FUERTEVENTURA",
-            "Localidad": "35014000799*DISEMINADO*",
+            "Localidad": "35014000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14224,
-            "denominacion": "CAAF LA OLIVA RED TINDAYA"
+            "idRed": 14225,
+            "denominacion": "CAAF LA OLIVA RED LA CALDERETA"
         },
         "geometry": {
             "type": "Point",
@@ -16562,6 +16418,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "AYTO. DE LA TORRE DE CABDELLA_25227_LLEIDA",
+            "Localidad": "PAÜLS DE FLAMICELL",
+            "Calidad del agua": "Agua no apta para el consumo",
+            "Comentario": "-",
+            "idRed": 14606,
+            "denominacion": "XARXA-PAÜLS (LA TORRE DE CABDELLA)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "AYTO. DE MASSANES_17101_GIRONA",
             "Localidad": "MASSANES (CASC URBÀ)",
             "Calidad del agua": "Agua apta para el consumo",
@@ -16586,24 +16460,6 @@
             "Comentario": "-",
             "idRed": 14571,
             "denominacion": "XARXA D'AIGUA POTABLE DE MASSANES"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE LA TORRE DE CABDELLA_25227_LLEIDA",
-            "Localidad": "PAÜLS DE FLAMICELL",
-            "Calidad del agua": "Agua no apta para el consumo",
-            "Comentario": "-",
-            "idRed": 14606,
-            "denominacion": "XARXA-PAÜLS (LA TORRE DE CABDELLA)"
         },
         "geometry": {
             "type": "Point",
@@ -16724,12 +16580,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "GRUP CASSA",
-            "Localidad": "08225000199*DISEMINADO*",
+            "Gestor": "AYTO. DE CABANELLES_17031_GIRONA",
+            "Localidad": "17031000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14805,
-            "denominacion": "XARXA BEULAIGUA (SANT MARTÍ D'ALBARS)"
+            "idRed": 14793,
+            "denominacion": "XARXA ESPINAVESSA"
         },
         "geometry": {
             "type": "Point",
@@ -16761,47 +16617,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GRUP CASSA",
-            "Localidad": "08160000199*DISEMINADO*",
+            "Localidad": "08225000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14806,
-            "denominacion": "XARXA LA TRIA (PERAFITA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE CABANELLES_17031_GIRONA",
-            "Localidad": "17031000399*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 14793,
-            "denominacion": "XARXA ESPINAVESSA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "GRUP CASSA",
-            "Localidad": "08160000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 14807,
-            "denominacion": "XARXA LA SERRA (PERAFITA)"
+            "idRed": 14805,
+            "denominacion": "XARXA BEULAIGUA (SANT MARTÍ D'ALBARS)"
         },
         "geometry": {
             "type": "Point",
@@ -16820,6 +16640,42 @@
             "Comentario": "-",
             "idRed": 14802,
             "denominacion": "XARXA ORFES"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GRUP CASSA",
+            "Localidad": "08160000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 14806,
+            "denominacion": "XARXA LA TRIA (PERAFITA)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GRUP CASSA",
+            "Localidad": "08160000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 14807,
+            "denominacion": "XARXA LA SERRA (PERAFITA)"
         },
         "geometry": {
             "type": "Point",
@@ -16959,11 +16815,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CONSORCIO DE ABASTECIMIENTO DE AGUAS A FUERTEVENTURA",
-            "Localidad": "35030000699*DISEMINADO*",
+            "Localidad": "35030000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14868,
-            "denominacion": "CAAF TUINEJE RED TARAJALEJO"
+            "idRed": 14867,
+            "denominacion": "CAAF TUINEJE RED GINIGINAMAR"
         },
         "geometry": {
             "type": "Point",
@@ -16995,11 +16851,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CONSORCIO DE ABASTECIMIENTO DE AGUAS A FUERTEVENTURA",
-            "Localidad": "35030000399*DISEMINADO*",
+            "Localidad": "35015000699*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14867,
-            "denominacion": "CAAF TUINEJE RED GINIGINAMAR"
+            "idRed": 14871,
+            "denominacion": "CAAF PÁJARA RED EL CORTIJO"
         },
         "geometry": {
             "type": "Point",
@@ -17013,11 +16869,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "CONSORCIO DE ABASTECIMIENTO DE AGUAS A FUERTEVENTURA",
-            "Localidad": "35015000699*DISEMINADO*",
+            "Localidad": "35030000699*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14871,
-            "denominacion": "CAAF PÁJARA RED EL CORTIJO"
+            "idRed": 14868,
+            "denominacion": "CAAF TUINEJE RED TARAJALEJO"
         },
         "geometry": {
             "type": "Point",
@@ -17372,6 +17228,42 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "GRUP CASSA",
+            "Localidad": "BARRI CAN CRUSET",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 14966,
+            "denominacion": "XARXA CAID RODAMILANS (SANT MARTÍ SARROCA)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GRUP CASSA",
+            "Localidad": "BARRI CANTARELLES",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 14966,
+            "denominacion": "XARXA CAID RODAMILANS (SANT MARTÍ SARROCA)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "SERVEIS MUNICIPALS SANT QUIRZE",
             "Localidad": "08238000499*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -17426,30 +17318,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "GRUP CASSA",
-            "Localidad": "BARRI CAN CRUSET",
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "URBANITZACIÓ ROCA-ROSSA",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14966,
-            "denominacion": "XARXA CAID RODAMILANS (SANT MARTÍ SARROCA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "GRUP CASSA",
-            "Localidad": "BARRI CANTARELLES",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 14966,
-            "denominacion": "XARXA CAID RODAMILANS (SANT MARTÍ SARROCA)"
+            "idRed": 14977,
+            "denominacion": "AQUALIA URB. ROCA - ROSSA"
         },
         "geometry": {
             "type": "Point",
@@ -17468,24 +17342,6 @@
             "Comentario": "-",
             "idRed": 14985,
             "denominacion": "AQUALIA URB. MAS REIXACH"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "URBANITZACIÓ ROCA-ROSSA",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 14977,
-            "denominacion": "AQUALIA URB. ROCA - ROSSA"
         },
         "geometry": {
             "type": "Point",
@@ -17606,12 +17462,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "GRUP CASSA",
-            "Localidad": "08166000199*DISEMINADO*",
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "URBANITZACIÓ LES FERRERES",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14994,
-            "denominacion": "XARXA LA POBLA DE LILLET"
+            "idRed": 14984,
+            "denominacion": "AQUALIA LES FARRERES SECTOR ALT - XARXA ABASTAMENT"
         },
         "geometry": {
             "type": "Point",
@@ -17624,12 +17480,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "URBANITZACIÓ LES FERRERES",
+            "Gestor": "GRUP CASSA",
+            "Localidad": "08166000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 14984,
-            "denominacion": "AQUALIA LES FARRERES SECTOR ALT - XARXA ABASTAMENT"
+            "idRed": 14994,
+            "denominacion": "XARXA LA POBLA DE LILLET"
         },
         "geometry": {
             "type": "Point",
@@ -18056,6 +17912,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "AYTO. DE COSTUR_12049_CASTELLÓ/CASTELLÓN",
+            "Localidad": "MASDAVALL",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 15226,
+            "denominacion": "RED MAS D'AVALL"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "FACSA",
             "Localidad": "BORSERAL (EL)",
             "Calidad del agua": "Agua apta para el consumo",
@@ -18110,42 +17984,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE COSTUR_12049_CASTELLÓ/CASTELLÓN",
-            "Localidad": "MASDAVALL",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 15226,
-            "denominacion": "RED MAS D'AVALL"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE VEGA DE INFANZONES_24197_LEÓN",
-            "Localidad": "VILLADESOTO",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 15270,
-            "denominacion": "RED-VILLADESOTO"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "ESPINA & DELFÍN, S. L.",
             "Localidad": "CHANDEVILA",
             "Calidad del agua": "Agua apta para el consumo",
@@ -18170,6 +18008,24 @@
             "Comentario": "-",
             "idRed": 15257,
             "denominacion": "RED DE DISTRIBUCIÓN DORRÓN -ZA SANXENXO"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE VEGA DE INFANZONES_24197_LEÓN",
+            "Localidad": "VILLADESOTO",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 15270,
+            "denominacion": "RED-VILLADESOTO"
         },
         "geometry": {
             "type": "Point",
@@ -18560,6 +18416,60 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "AYTO. DE VALLFOGONA DE RIPOLLÈS_17170_GIRONA",
+            "Localidad": "BAGA AMUNT (LA)",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 15659,
+            "denominacion": "XARXA DE VALLFOGONA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE VALLFOGONA DE RIPOLLÈS_17170_GIRONA",
+            "Localidad": "BAGA AVALL (LA)",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 15659,
+            "denominacion": "XARXA DE VALLFOGONA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE VALLFOGONA DE RIPOLLÈS_17170_GIRONA",
+            "Localidad": "DOMES (LES)",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 15659,
+            "denominacion": "XARXA DE VALLFOGONA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "FACSA",
             "Localidad": "PUCHOLS DE DALT (ELS)",
             "Calidad del agua": "Agua apta para el consumo",
@@ -18704,12 +18614,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE BORRASSÀ_17026_GIRONA",
-            "Localidad": "17026000199*DISEMINADO*",
+            "Gestor": "AYTO. DE LLADÓ_17088_GIRONA",
+            "Localidad": "17088000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 15763,
-            "denominacion": "XARXA BORRASSÀ"
+            "idRed": 15762,
+            "denominacion": "XARXA LLADÓ"
         },
         "geometry": {
             "type": "Point",
@@ -18740,12 +18650,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE LLADÓ_17088_GIRONA",
-            "Localidad": "17088000199*DISEMINADO*",
+            "Gestor": "AYTO. DE BORRASSÀ_17026_GIRONA",
+            "Localidad": "17026000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 15762,
-            "denominacion": "XARXA LLADÓ"
+            "idRed": 15763,
+            "denominacion": "XARXA BORRASSÀ"
         },
         "geometry": {
             "type": "Point",
@@ -18813,11 +18723,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AGUAS DE LOS VERDIALES S.A.",
-            "Localidad": "29011000399*DISEMINADO*",
+            "Localidad": "29011000499*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 15783,
-            "denominacion": "AGUAS DE LOS VERDIALES S.A. RED DE DISTRIBUCION ARROYO LOS OLIVOS"
+            "idRed": 15784,
+            "denominacion": "AGUAS DE LOS VERDIALES S.A. RED DE DISTRIBUCION PUENTE HIERRO"
         },
         "geometry": {
             "type": "Point",
@@ -18831,11 +18741,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "AGUAS DE LOS VERDIALES S.A.",
-            "Localidad": "29011000499*DISEMINADO*",
+            "Localidad": "29011000399*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 15784,
-            "denominacion": "AGUAS DE LOS VERDIALES S.A. RED DE DISTRIBUCION PUENTE HIERRO"
+            "idRed": 15783,
+            "denominacion": "AGUAS DE LOS VERDIALES S.A. RED DE DISTRIBUCION ARROYO LOS OLIVOS"
         },
         "geometry": {
             "type": "Point",
@@ -18866,30 +18776,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE GARRIGOLES_17076_GIRONA",
-            "Localidad": "17076000199*DISEMINADO*",
+            "Gestor": "AYTO. DE ULTRAMORT_17203_GIRONA",
+            "Localidad": "17203000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 15778,
-            "denominacion": "XARXA DE GARRIGOLES"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE GARRIGOLES_17076_GIRONA",
-            "Localidad": "17076000299*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 15778,
-            "denominacion": "XARXA DE GARRIGOLES"
+            "idRed": 15780,
+            "denominacion": "XARXA ULTRAMORT"
         },
         "geometry": {
             "type": "Point",
@@ -18926,6 +18818,24 @@
             "Comentario": "-",
             "idRed": 15834,
             "denominacion": "RED DE SANTIAGOLARRA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE CANTALLOPS_17041_GIRONA",
+            "Localidad": "17041000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 15806,
+            "denominacion": "XARXA DE CANTALLOPS"
         },
         "geometry": {
             "type": "Point",
@@ -18992,12 +18902,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE TOSES_17201_GIRONA",
-            "Localidad": "17201000599*DISEMINADO*",
+            "Gestor": "AYTO. DE VALLFOGONA DE RIPOLLÈS_17170_GIRONA",
+            "Localidad": "SOLANA AMUNT (LA)",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 16079,
-            "denominacion": "XARXA DE TOSES"
+            "idRed": 16081,
+            "denominacion": "XARXA VALLFOGONA VËÏNAT DE DALT"
         },
         "geometry": {
             "type": "Point",
@@ -19010,12 +18920,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE VALLFOGONA DE RIPOLLÈS_17170_GIRONA",
-            "Localidad": "SOLANA AMUNT (LA)",
+            "Gestor": "AYTO. DE TOSES_17201_GIRONA",
+            "Localidad": "17201000599*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 16081,
-            "denominacion": "XARXA VALLFOGONA VËÏNAT DE DALT"
+            "idRed": 16079,
+            "denominacion": "XARXA DE TOSES"
         },
         "geometry": {
             "type": "Point",
@@ -19226,42 +19136,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE GALINDO Y PERAHUY_37142_SALAMANCA",
-            "Localidad": "MONTE LA RAD",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 16197,
-            "denominacion": "RED-LA RAD II-CAMPO CHARRO-GALINDO Y PERAHUY"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE VILOPRIU_17232_GIRONA",
-            "Localidad": "17232000399*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 16206,
-            "denominacion": "XARXA VALLDEVIÀ"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "AYTO. DE VILOPRIU_17232_GIRONA",
             "Localidad": "17232000499*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -19280,12 +19154,48 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "AYTO. DE GALINDO Y PERAHUY_37142_SALAMANCA",
+            "Localidad": "MONTE LA RAD",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 16197,
+            "denominacion": "RED-LA RAD II-CAMPO CHARRO-GALINDO Y PERAHUY"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "AYTO. DE VERGES_17211_GIRONA",
             "Localidad": "17211000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
             "idRed": 16192,
             "denominacion": "XARXA VERGES"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE VILOPRIU_17232_GIRONA",
+            "Localidad": "17232000399*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 16206,
+            "denominacion": "XARXA VALLDEVIÀ"
         },
         "geometry": {
             "type": "Point",
@@ -19334,12 +19244,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "EMPRESA MUNICIPAL D'AIGÜES DE VILAFRANCA, S.A.",
-            "Localidad": "SERRA (LA)-PLA DE CAVALLS",
+            "Gestor": "CONSORCIO DE ABASTECIMIENTO DE AGUAS A FUERTEVENTURA",
+            "Localidad": "35030001299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 16307,
-            "denominacion": "XARXA PACS. POBLE I URBANITZACIÓ PLA DE CAVALL."
+            "idRed": 16339,
+            "denominacion": "CAAF TUINEJE RED MARCOS SÁNCHEZ"
         },
         "geometry": {
             "type": "Point",
@@ -19352,12 +19262,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "CONSORCIO DE ABASTECIMIENTO DE AGUAS A FUERTEVENTURA",
-            "Localidad": "35030001299*DISEMINADO*",
+            "Gestor": "EMPRESA MUNICIPAL D'AIGÜES DE VILAFRANCA, S.A.",
+            "Localidad": "SERRA (LA)-PLA DE CAVALLS",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 16339,
-            "denominacion": "CAAF TUINEJE RED MARCOS SÁNCHEZ"
+            "idRed": 16307,
+            "denominacion": "XARXA PACS. POBLE I URBANITZACIÓ PLA DE CAVALL."
         },
         "geometry": {
             "type": "Point",
@@ -19430,6 +19340,24 @@
             "Comentario": "-",
             "idRed": 16371,
             "denominacion": "XARXA CAPMANY"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "30004000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 16357,
+            "denominacion": "AQC-RED POLÍGONO ALBUDEITE"
         },
         "geometry": {
             "type": "Point",
@@ -19622,6 +19550,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+            "Localidad": "30021031199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 16518,
+            "denominacion": "RED ACERBUCHAR"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "AYTO. DE SANT MARTÍ VELL_17173_GIRONA",
             "Localidad": "VEÏNAT DE MONT-RODÓ",
             "Calidad del agua": "Agua apta para el consumo",
@@ -19736,24 +19682,6 @@
             "Comentario": "-",
             "idRed": 16467,
             "denominacion": "XARXA SANT MARTÍ VELL"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
-            "Localidad": "30021031199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 16518,
-            "denominacion": "RED ACERBUCHAR"
         },
         "geometry": {
             "type": "Point",
@@ -20613,11 +20541,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
-            "Localidad": "04006000799*DISEMINADO*",
+            "Localidad": "04006000999*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 20398,
-            "denominacion": "GESTAGUA_ALBOX MUNICIPIO_RED RAMBLAS"
+            "idRed": 20397,
+            "denominacion": "GESTAGUA_ALBOX MUNICIPIO_RED POCICAS"
         },
         "geometry": {
             "type": "Point",
@@ -20631,11 +20559,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
-            "Localidad": "04006000999*DISEMINADO*",
+            "Localidad": "04006000799*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 20397,
-            "denominacion": "GESTAGUA_ALBOX MUNICIPIO_RED POCICAS"
+            "idRed": 20398,
+            "denominacion": "GESTAGUA_ALBOX MUNICIPIO_RED RAMBLAS"
         },
         "geometry": {
             "type": "Point",
@@ -20810,6 +20738,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "AYTO. DE VALGA_36056_PONTEVEDRA",
+            "Localidad": "CASAL DO EIRIXO",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 20462,
+            "denominacion": "REDE SETECOROS - ZA VALGA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "PROVEÏMENTS D'AIGUA SA",
             "Localidad": "17020000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -20852,24 +20798,6 @@
             "Comentario": "-",
             "idRed": 20448,
             "denominacion": "XARXA BESCANÓ"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE VALGA_36056_PONTEVEDRA",
-            "Localidad": "CASAL DO EIRIXO",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 20462,
-            "denominacion": "REDE SETECOROS - ZA VALGA"
         },
         "geometry": {
             "type": "Point",
@@ -21158,6 +21086,24 @@
             "Comentario": "-",
             "idRed": 20838,
             "denominacion": "XARXA ALELLA PARK"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "ENTIDAD URBANISTICA COLABORADORA DE CONSERVACION \"CDAD. DE PROPIETARIOS URBANIZACION CASA MEDINA\"",
+            "Localidad": "URBANIZACIÓN CASAS DE MEDINA",
+            "Calidad del agua": "Agua no apta para el consumo",
+            "Comentario": "-",
+            "idRed": 20839,
+            "denominacion": "RED DE UTIEL 10 - URBANIZACION CASAS DE MEDINA"
         },
         "geometry": {
             "type": "Point",
@@ -21746,6 +21692,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "PLATJA DEN BOSSA",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 21495,
+            "denominacion": "RED PLATJA D´EN BOSSA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "COMUNIDADE DE USUARIOS DE AUGAS \"O COTIÑO\" DE XINZO-TEIXUGUEIRAS",
             "Localidad": "XINZO DE TEIXUGUEIRAS",
             "Calidad del agua": "Agua apta para el consumo",
@@ -21770,24 +21734,6 @@
             "Comentario": "-",
             "idRed": 21536,
             "denominacion": "RED-PERDONES-GOZON"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "PLATJA DEN BOSSA",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 21495,
-            "denominacion": "RED PLATJA D´EN BOSSA"
         },
         "geometry": {
             "type": "Point",
@@ -21980,12 +21926,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "COMUNIDAD DE USUARIOS DE AGUAS DE MOSTEIRO-TOMIÑO",
-            "Localidad": "36054020599*DISEMINADO*",
+            "Gestor": "COMUNIDAD DE PROPIETARIOS EL OJARANZO",
+            "Localidad": "23099000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 21752,
-            "denominacion": "REDE DISTRIBUCIÓN MOSTEIRO - ZA MOSTEIRO - TOMIÑO"
+            "idRed": 21736,
+            "denominacion": "C.P. EL OJARANZO, VILLARES (LOS), RED DE DISTRIBUCION OJARANZO"
         },
         "geometry": {
             "type": "Point",
@@ -21998,12 +21944,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "COMUNIDAD DE PROPIETARIOS EL OJARANZO",
-            "Localidad": "23099000199*DISEMINADO*",
+            "Gestor": "COMUNIDAD DE USUARIOS DE AGUAS DE MOSTEIRO-TOMIÑO",
+            "Localidad": "36054020599*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 21736,
-            "denominacion": "C.P. EL OJARANZO, VILLARES (LOS), RED DE DISTRIBUCION OJARANZO"
+            "idRed": 21752,
+            "denominacion": "REDE DISTRIBUCIÓN MOSTEIRO - ZA MOSTEIRO - TOMIÑO"
         },
         "geometry": {
             "type": "Point",
@@ -22052,12 +21998,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "COMUNJIDAD DE USUARIOS BOUZON PIÑEIRO",
-            "Localidad": "36054090299*DISEMINADO*",
+            "Gestor": "COMUNIDAD DE USUARIOS DE 1ª DE CARBALLAL",
+            "Localidad": "36054130199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 21767,
-            "denominacion": "REDE BOUZÓN - ZA BOUZÓN PIÑEIRO - TOMIÑO"
+            "idRed": 21768,
+            "denominacion": "REDE 1ª CARBALLAL - ZA 1ª CARBALLAL - TOMIÑO"
         },
         "geometry": {
             "type": "Point",
@@ -22070,12 +22016,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "COMUNIDAD DE USUARIOS DE 1ª DE CARBALLAL",
-            "Localidad": "36054130199*DISEMINADO*",
+            "Gestor": "COMUNJIDAD DE USUARIOS BOUZON PIÑEIRO",
+            "Localidad": "36054090299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 21768,
-            "denominacion": "REDE 1ª CARBALLAL - ZA 1ª CARBALLAL - TOMIÑO"
+            "idRed": 21767,
+            "denominacion": "REDE BOUZÓN - ZA BOUZÓN PIÑEIRO - TOMIÑO"
         },
         "geometry": {
             "type": "Point",
@@ -22160,24 +22106,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "ACCIONA AGUA SERVICIOS, S.L.U.",
-            "Localidad": "LLUC ALCARI",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 21790,
-            "denominacion": "RED LLUCALCARI"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "COMUNIDAD DE AGUAS A MALATA",
             "Localidad": "BORDUCEDO GRANDE",
             "Calidad del agua": "Agua apta para el consumo",
@@ -22202,6 +22130,24 @@
             "Comentario": "-",
             "idRed": 21784,
             "denominacion": "RED A MALATA-ZA CU A MALATA-ABEGONDO"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "ACCIONA AGUA SERVICIOS, S.L.U.",
+            "Localidad": "LLUC ALCARI",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 21790,
+            "denominacion": "RED LLUCALCARI"
         },
         "geometry": {
             "type": "Point",
@@ -22430,12 +22376,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "COMUNIDAD DE USUARIOS DE PINZÁS - TOMIÑO",
-            "Localidad": "ALPUXARRA",
+            "Gestor": "COMUNIDAD DE USUARIOS DE AGUAS DE SOLVADO",
+            "Localidad": "36054020799*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 21861,
-            "denominacion": "REDE PINZÁS - ZA PINZÁS- TOMIÑO"
+            "idRed": 21862,
+            "denominacion": "REDE SOLVADO - ZA SOLVADO - TOMIÑO"
         },
         "geometry": {
             "type": "Point",
@@ -22448,12 +22394,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "COMUNIDAD DE USUARIOS DE AGUAS DE SOLVADO",
-            "Localidad": "36054020799*DISEMINADO*",
+            "Gestor": "COMUNIDAD DE USUARIOS DE PINZÁS - TOMIÑO",
+            "Localidad": "ALPUXARRA",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 21862,
-            "denominacion": "REDE SOLVADO - ZA SOLVADO - TOMIÑO"
+            "idRed": 21861,
+            "denominacion": "REDE PINZÁS - ZA PINZÁS- TOMIÑO"
         },
         "geometry": {
             "type": "Point",
@@ -22520,12 +22466,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "COMUNIDAD DE USUARIOS DE PAZO - BARRANTES",
-            "Localidad": "36054020699*DISEMINADO*",
+            "Gestor": "COMUNIDAD DE USUARIOS DE REBORDANS",
+            "Localidad": "CURUJEIRAS",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 21922,
-            "denominacion": "REDE PAZO - ZA PAZO - TOMIÑO"
+            "idRed": 21919,
+            "denominacion": "RED REBORDANS - ZA REBORDANS TU I"
         },
         "geometry": {
             "type": "Point",
@@ -22538,12 +22484,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "COMUNIDAD DE USUARIOS DE REBORDANS",
-            "Localidad": "CURUJEIRAS",
+            "Gestor": "COMUNIDAD DE USUARIOS DE PAZO - BARRANTES",
+            "Localidad": "36054020699*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 21919,
-            "denominacion": "RED REBORDANS - ZA REBORDANS TU I"
+            "idRed": 21922,
+            "denominacion": "REDE PAZO - ZA PAZO - TOMIÑO"
         },
         "geometry": {
             "type": "Point",
@@ -22578,8 +22524,8 @@
             "Localidad": "REQUEXÉU (EL)",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 21932,
-            "denominacion": "PANIZALES(MIERES)"
+            "idRed": 21937,
+            "denominacion": "REQUEXEU(MIERES)"
         },
         "geometry": {
             "type": "Point",
@@ -22596,8 +22542,8 @@
             "Localidad": "REQUEXÉU (EL)",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 21937,
-            "denominacion": "REQUEXEU(MIERES)"
+            "idRed": 21932,
+            "denominacion": "PANIZALES(MIERES)"
         },
         "geometry": {
             "type": "Point",
@@ -23440,7 +23386,7 @@
         "properties": {
             "Gestor": "GEROCLEOP S.L.",
             "Localidad": "46193000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
+            "Calidad del agua": "Agua no apta para el consumo",
             "Comentario": "-",
             "idRed": 22495,
             "denominacion": "RED PICANYA 2-RESIDENCIA NOVAEDAT"
@@ -23780,42 +23726,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "PUMEO",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 22806,
-            "denominacion": "RED-LOS CARBAYOS-AQN-CASTRILLON-PIEDRAS BLANCAS(CADASA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "XIRÁN (LA)",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 22806,
-            "denominacion": "RED-LOS CARBAYOS-AQN-CASTRILLON-PIEDRAS BLANCAS(CADASA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "ASTURAGUA S.A",
             "Localidad": "CUESTA DEL CESTO",
             "Calidad del agua": "Agua apta para el consumo",
@@ -23960,24 +23870,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "VIL.LANUEVA",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 22891,
-            "denominacion": "RED MOREDA- AQN-ALLER-RÍO ALLER/MANANTIAL DE LA POLA-CABAÑAQUINTA Y OTRAS"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "AIGÜES DE VALLIRANA",
             "Localidad": "SELVA NEGRA CATALANA",
             "Calidad del agua": "Agua apta para el consumo",
@@ -24002,6 +23894,24 @@
             "Comentario": "-",
             "idRed": 22905,
             "denominacion": "XARXA LA SOLANA (VALLIRANA)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE JUIÀ_17087_GIRONA",
+            "Localidad": "17087000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 22918,
+            "denominacion": "XARXA JUIÀ"
         },
         "geometry": {
             "type": "Point",
@@ -24050,12 +23960,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "FCC AQUALIA",
-            "Localidad": "BUCIEL.LO",
+            "Gestor": "PROVEÏMENTS D'AIGUA SA",
+            "Localidad": "17050000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 23080,
-            "denominacion": "RED BUCIELLO- AQN-ALLER-RÍO ALLER/MANANTIAL DE LA POLA-CABAÑAQUINTA Y OTRAS"
+            "idRed": 23077,
+            "denominacion": "XARXA CERVIÀ DE TER"
         },
         "geometry": {
             "type": "Point",
@@ -24068,12 +23978,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "PROVEÏMENTS D'AIGUA SA",
-            "Localidad": "17050000199*DISEMINADO*",
+            "Gestor": "FCC AQUALIA",
+            "Localidad": "BUCIEL.LO",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 23077,
-            "denominacion": "XARXA CERVIÀ DE TER"
+            "idRed": 23080,
+            "denominacion": "RED BUCIELLO- AQN-ALLER-RÍO ALLER/MANANTIAL DE LA POLA-CABAÑAQUINTA Y OTRAS"
         },
         "geometry": {
             "type": "Point",
@@ -24338,12 +24248,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE SANT ANIOL DE FINESTRES_17183_GIRONA",
-            "Localidad": "17183000299*DISEMINADO*",
+            "Gestor": "SGAB, SOCIEDAD GENERAL DE AGUAS DE BARCELONA SAU",
+            "Localidad": "ZONA RURAL RAVAL DE BAIX - EIXAMPLE",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 23205,
-            "denominacion": "XARXA DISTRIBUCIÓ SANT ANIOL DE FINESTRES"
+            "idRed": 23230,
+            "denominacion": "XARXA VALL-LLOBREGA CENTRE"
         },
         "geometry": {
             "type": "Point",
@@ -24356,12 +24266,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "SGAB, SOCIEDAD GENERAL DE AGUAS DE BARCELONA SAU",
-            "Localidad": "ZONA RURAL RAVAL DE BAIX - EIXAMPLE",
+            "Gestor": "AYTO. DE SANT ANIOL DE FINESTRES_17183_GIRONA",
+            "Localidad": "17183000299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 23230,
-            "denominacion": "XARXA VALL-LLOBREGA CENTRE"
+            "idRed": 23205,
+            "denominacion": "XARXA DISTRIBUCIÓ SANT ANIOL DE FINESTRES"
         },
         "geometry": {
             "type": "Point",
@@ -24792,8 +24702,8 @@
             "Localidad": "08142000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 23619,
-            "denominacion": "XARXA DE MALANYEU (LA NOU DE BERGUEDÀ)"
+            "idRed": 23618,
+            "denominacion": "XARXA LA NOU DE BERGUEDÀ"
         },
         "geometry": {
             "type": "Point",
@@ -24810,8 +24720,8 @@
             "Localidad": "08142000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 23618,
-            "denominacion": "XARXA LA NOU DE BERGUEDÀ"
+            "idRed": 23619,
+            "denominacion": "XARXA DE MALANYEU (LA NOU DE BERGUEDÀ)"
         },
         "geometry": {
             "type": "Point",
@@ -24897,42 +24807,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "HIDROGEA",
-            "Localidad": "30016100299*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 23751,
-            "denominacion": "RED POL. LOS CAMACHOS - LOS BEATOS (CARTAGENA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "HIDROGEA",
-            "Localidad": "30016210399*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 23751,
-            "denominacion": "RED POL. LOS CAMACHOS - LOS BEATOS (CARTAGENA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "HIDROGEA",
             "Localidad": "30016150699*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -24974,42 +24848,6 @@
             "Comentario": "-",
             "idRed": 23753,
             "denominacion": "RED EL LLANO DEL BEAL (CARTAGENA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "HIDROGEA",
-            "Localidad": "30016150199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 23759,
-            "denominacion": "RED LA AZOHÍA (CARTAGENA)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "HIDROGEA",
-            "Localidad": "30016180899*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 23759,
-            "denominacion": "RED LA AZOHÍA (CARTAGENA)"
         },
         "geometry": {
             "type": "Point",
@@ -25076,12 +24914,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE DAS_17061_GIRONA",
-            "Localidad": "URBANITZACIÓ TARTERA",
+            "Gestor": "HIDROGEA",
+            "Localidad": "30016150199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 23853,
-            "denominacion": "XARXA DE DAS-DAS"
+            "idRed": 23759,
+            "denominacion": "RED LA AZOHÍA (CARTAGENA)"
         },
         "geometry": {
             "type": "Point",
@@ -25094,12 +24932,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE DAS_17061_GIRONA",
-            "Localidad": "17061000199*DISEMINADO*",
+            "Gestor": "HIDROGEA",
+            "Localidad": "30016180899*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 23853,
-            "denominacion": "XARXA DE DAS-DAS"
+            "idRed": 23759,
+            "denominacion": "RED LA AZOHÍA (CARTAGENA)"
         },
         "geometry": {
             "type": "Point",
@@ -25382,6 +25220,24 @@
     {
         "type": "Feature",
         "properties": {
+            "Gestor": "ANTICIMEX 3D SANIDAD AMBIENTAL S.A.U.",
+            "Localidad": "19223000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 24471,
+            "denominacion": "RED - POVEDA DE LA SIERRA - GU"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
             "Gestor": "COMUNIDAD DE USUARIOS DE VILABOA",
             "Localidad": "CABADACHAN",
             "Calidad del agua": "Agua apta para el consumo",
@@ -25418,24 +25274,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "ANTICIMEX 3D SANIDAD AMBIENTAL S.A.U.",
-            "Localidad": "19223000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 24471,
-            "denominacion": "RED - POVEDA DE LA SIERRA - GU"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "AQUONA, S.A.",
             "Localidad": "16149000299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -25456,7 +25294,7 @@
         "properties": {
             "Gestor": "AYTO. DE LA MATA_45095_TOLEDO",
             "Localidad": "45095000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
+            "Calidad del agua": "Agua no apta para el consumo",
             "Comentario": "-",
             "idRed": 24537,
             "denominacion": "RED-LA MATA-TO"
@@ -25581,11 +25419,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "MANCOMUNIDAD DEL RÍO PUSA",
-            "Localidad": "45194000199*DISEMINADO*",
+            "Localidad": "45155000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 24606,
-            "denominacion": "RED-VILLAREJO DE MONTALBÁN-TO"
+            "idRed": 24605,
+            "denominacion": "RED-SANTA ANA DE PUSA-TO"
         },
         "geometry": {
             "type": "Point",
@@ -25599,11 +25437,11 @@
         "type": "Feature",
         "properties": {
             "Gestor": "MANCOMUNIDAD DEL RÍO PUSA",
-            "Localidad": "45155000199*DISEMINADO*",
+            "Localidad": "45194000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 24605,
-            "denominacion": "RED-SANTA ANA DE PUSA-TO"
+            "idRed": 24606,
+            "denominacion": "RED-VILLAREJO DE MONTALBÁN-TO"
         },
         "geometry": {
             "type": "Point",
@@ -25658,6 +25496,24 @@
             "Comentario": "-",
             "idRed": 24652,
             "denominacion": "RED ALBORACHE 2 -URBANIZACION SANTIAGO APOSTOL"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE ESLIDA_12057_CASTELLÓ/CASTELLÓN",
+            "Localidad": "12057000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 24667,
+            "denominacion": "RED DE ESLIDA"
         },
         "geometry": {
             "type": "Point",
@@ -25742,24 +25598,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE ESLIDA_12057_CASTELLÓ/CASTELLÓN",
-            "Localidad": "12057000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 24667,
-            "denominacion": "RED DE ESLIDA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "AYTO. DE LA SERRATELLA_12103_CASTELLÓ/CASTELLÓN",
             "Localidad": "12103000499*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
@@ -25796,12 +25634,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE PAVÍAS_12088_CASTELLÓ/CASTELLÓN",
-            "Localidad": "12088000199*DISEMINADO*",
+            "Gestor": "AYTO. DE LA MATA DE MORELLA_12075_CASTELLÓ/CASTELLÓN",
+            "Localidad": "12075000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 24685,
-            "denominacion": "RED DE PAVÍAS"
+            "idRed": 24683,
+            "denominacion": "RED DE LA MATA DE MORELLA"
         },
         "geometry": {
             "type": "Point",
@@ -25814,12 +25652,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE LA MATA DE MORELLA_12075_CASTELLÓ/CASTELLÓN",
-            "Localidad": "12075000199*DISEMINADO*",
+            "Gestor": "AYTO. DE PAVÍAS_12088_CASTELLÓ/CASTELLÓN",
+            "Localidad": "12088000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 24683,
-            "denominacion": "RED DE LA MATA DE MORELLA"
+            "idRed": 24685,
+            "denominacion": "RED DE PAVÍAS"
         },
         "geometry": {
             "type": "Point",
@@ -25922,12 +25760,30 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "EKUIS: SISTEMA DE INFORMACIÓN DE AGUAS DE CONSUMO DE LA CAPV",
-            "Localidad": "20015000299*DISEMINADO*",
+            "Gestor": "AYTO. DE LESPUNYOLA_8078_BARCELONA",
+            "Localidad": "ESGLAYOLA",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 24753,
-            "denominacion": "AMUNDARAIN"
+            "idRed": 24718,
+            "denominacion": "XARXA L'ESPUNYOLA"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE LESPUNYOLA_8078_BARCELONA",
+            "Localidad": "08078000599*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 24718,
+            "denominacion": "XARXA L'ESPUNYOLA"
         },
         "geometry": {
             "type": "Point",
@@ -25958,12 +25814,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE LESPUNYOLA_8078_BARCELONA",
-            "Localidad": "ESGLAYOLA",
+            "Gestor": "EKUIS: SISTEMA DE INFORMACIÓN DE AGUAS DE CONSUMO DE LA CAPV",
+            "Localidad": "20015000299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 24718,
-            "denominacion": "XARXA L'ESPUNYOLA"
+            "idRed": 24753,
+            "denominacion": "AMUNDARAIN"
         },
         "geometry": {
             "type": "Point",
@@ -25976,12 +25832,12 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE LESPUNYOLA_8078_BARCELONA",
-            "Localidad": "08078000599*DISEMINADO*",
+            "Gestor": "AYTO. DE BENAFIGOS_12025_CASTELLÓ/CASTELLÓN",
+            "Localidad": "12025000199*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 24718,
-            "denominacion": "XARXA L'ESPUNYOLA"
+            "idRed": 24762,
+            "denominacion": "RED BENAFIGOS 2 - DISEMINADOS"
         },
         "geometry": {
             "type": "Point",
@@ -26030,12 +25886,30 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE BENAFIGOS_12025_CASTELLÓ/CASTELLÓN",
-            "Localidad": "12025000199*DISEMINADO*",
+            "Gestor": "AYTO. DE RUPIT I PRUIT_8901_BARCELONA",
+            "Localidad": "08901000299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
-            "idRed": 24762,
-            "denominacion": "RED BENAFIGOS 2 - DISEMINADOS"
+            "idRed": 24729,
+            "denominacion": "XARXA EL PERER (RUPIT I PRUIT)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE HIGUERUELAS_46141_VALÈNCIA/VALENCIA",
+            "Localidad": "46141000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 24750,
+            "denominacion": "RED DEHIGUERUELAS 1 - CASCO URBANO"
         },
         "geometry": {
             "type": "Point",
@@ -26210,24 +26084,6 @@
     {
         "type": "Feature",
         "properties": {
-            "Gestor": "AYTO. DE ORPÍ_8152_BARCELONA",
-            "Localidad": "08152000299*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 24972,
-            "denominacion": "XARXA ORPÍ (ORPÍ)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
             "Gestor": "AYTO. DE MONTCLAR_8130_BARCELONA",
             "Localidad": "TORREGASA",
             "Calidad del agua": "Agua apta para el consumo",
@@ -26252,6 +26108,114 @@
             "Comentario": "-",
             "idRed": 24957,
             "denominacion": "XARXA MONTCLAR-CASSERRES-L'ESPUNYOLA (MONTCLAR)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE ORPÍ_8152_BARCELONA",
+            "Localidad": "08152000299*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 24972,
+            "denominacion": "XARXA ORPÍ (ORPÍ)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AYTO. DE RUBIÓ_8185_BARCELONA",
+            "Localidad": "SAN MARTÍ DE MASSANA",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 24971,
+            "denominacion": "XARXA CASTELL DE RUBIÓ (ZS ZONA NORD - RUBIÓ)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+            "Localidad": "CIUDAD DE LAS COMUNICACIONES",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 24932,
+            "denominacion": "RED SAN MIGUEL DE SALINAS 3-CIUDAD DE LAS COMUNICACIONES"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
+            "Localidad": "03120000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 24932,
+            "denominacion": "RED SAN MIGUEL DE SALINAS 3-CIUDAD DE LAS COMUNICACIONES"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GRUP CASSA",
+            "Localidad": "08187000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 24982,
+            "denominacion": "XARXA DISTRIBUCIÓ RIPOLL-CAN ARMENGOL"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "GRUP CASSA",
+            "Localidad": "08260000399*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 25011,
+            "denominacion": "XARXA DISTRIBUCIÓ TERRABLANCA (SANTA PERPÈTUA DE MOGODA)"
         },
         "geometry": {
             "type": "Point",
@@ -26540,96 +26504,6 @@
             "Comentario": "-",
             "idRed": 24843,
             "denominacion": "RED ZA SALVATERRA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AYTO. DE RUBIÓ_8185_BARCELONA",
-            "Localidad": "SAN MARTÍ DE MASSANA",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 24971,
-            "denominacion": "XARXA CASTELL DE RUBIÓ (ZS ZONA NORD - RUBIÓ)"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
-            "Localidad": "CIUDAD DE LAS COMUNICACIONES",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 24932,
-            "denominacion": "RED SAN MIGUEL DE SALINAS 3-CIUDAD DE LAS COMUNICACIONES"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "GESTIÓN Y TÉCNICAS DEL AGUA S.A. (GESTAGUA)",
-            "Localidad": "03120000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 24932,
-            "denominacion": "RED SAN MIGUEL DE SALINAS 3-CIUDAD DE LAS COMUNICACIONES"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "GRUP CASSA",
-            "Localidad": "08187000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 24982,
-            "denominacion": "XARXA DISTRIBUCIÓ RIPOLL-CAN ARMENGOL"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "GRUP CASSA",
-            "Localidad": "08260000399*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 25011,
-            "denominacion": "XARXA DISTRIBUCIÓ TERRABLANCA (SANTA PERPÈTUA DE MOGODA)"
         },
         "geometry": {
             "type": "Point",
@@ -27147,42 +27021,6 @@
         "type": "Feature",
         "properties": {
             "Gestor": "HIDROGEA",
-            "Localidad": "30016230399*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 25397,
-            "denominacion": "RED ALUMBRES"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "AGUAS MOLTO SL",
-            "Localidad": "46184000199*DISEMINADO*",
-            "Calidad del agua": "Agua apta para el consumo",
-            "Comentario": "-",
-            "idRed": 25418,
-            "denominacion": "RED DE ONTINYENT 6-LA SOLANA"
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                0.0,
-                0.0
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties": {
-            "Gestor": "HIDROGEA",
             "Localidad": "30016190299*DISEMINADO*",
             "Calidad del agua": "Agua apta para el consumo",
             "Comentario": "-",
@@ -27206,6 +27044,42 @@
             "Comentario": "-",
             "idRed": 25380,
             "denominacion": "RED CABO PALOS (CARTAGENA)"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "HIDROGEA",
+            "Localidad": "30016230399*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 25397,
+            "denominacion": "RED ALUMBRES"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Gestor": "AGUAS MOLTO SL",
+            "Localidad": "46184000199*DISEMINADO*",
+            "Calidad del agua": "Agua apta para el consumo",
+            "Comentario": "-",
+            "idRed": 25418,
+            "denominacion": "RED DE ONTINYENT 6-LA SOLANA"
         },
         "geometry": {
             "type": "Point",
