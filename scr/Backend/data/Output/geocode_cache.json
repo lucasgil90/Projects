@@ -119062,5 +119062,49 @@
     "21774::SAMPER DEL SALZ": [
         -0.825206,
         41.2342619
+    ],
+    "8364::POLÍGONO INDUSTRIAL LOS VIENTOS": [
+        -0.3840258,
+        39.5995108
+    ],
+    "8364::URBANIZACIÓN BONANZA": [
+        -0.392499,
+        39.6151971
+    ],
+    "8364::URBANIZACIÓN LA LOMA": [
+        -2.1826371,
+        40.0821523
+    ],
+    "8364::URBANIZACIÓN MONT-ROS": [
+        -0.432631,
+        39.6379514
+    ],
+    "8364::URBANIZACIÓN SAN MIGUEL": [
+        -5.3526275,
+        36.1711756
+    ],
+    "8379::BARRACA D'AIGUES VIVES": [
+        -0.3710976,
+        39.104038
+    ],
+    "9256::CORTE (LA)": [
+        -5.842643,
+        43.3630381
+    ],
+    "12529::PEÑAUSENDE": [
+        -5.8667465,
+        41.2873276
+    ],
+    "13184::VALDEPRADOS": [
+        -4.2568565,
+        40.8174894
+    ],
+    "16081::SOLANA AMUNT (LA)": [
+        2.3153995,
+        42.2021623
+    ],
+    "24849::CASTELLÓ DE LA PLANA/CASTELLÓN DE LA PLANA": [
+        -0.0377354,
+        39.9860347
     ]
 }
